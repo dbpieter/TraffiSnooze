@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E1BC4B31-A180-43AD-A85C-BB901D9194C3}</ProjectGuid>
+    <ProjectGuid>{35662C24-BBA6-481A-8AF2-DFA82FF37586}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SleepTitle.Domain</RootNamespace>
-    <AssemblyName>SleepTitle.Domain</AssemblyName>
+    <RootNamespace>TraffiSnooze.Bootstrapper</RootNamespace>
+    <AssemblyName>TraffiSnooze.Bootstrapper</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -33,20 +33,15 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Location.cs" />
-    <Compile Include="Models\Route.cs" />
-    <Compile Include="Models\RouteSegment.cs" />
-    <Compile Include="Models\RouteStat.cs" />
-    <Compile Include="Models\User.cs" />
-    <Compile Include="Models\WakeUpRoutine.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup />
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

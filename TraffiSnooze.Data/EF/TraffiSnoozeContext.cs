@@ -1,24 +1,31 @@
 ﻿using TraffiSnooze.Domain.Models;
-using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 using SleepTitle.Domain.Models;
+using Microsoft.Data.Entity;
+using Microsoft.Data.Sqlite;
+using Microsoft.Data.Entity.Metadata;
+using SleepTitle.Data.Common;
 
 namespace TraffiSnooze.Data.EF
 {
     public class TraffiSnoozeContext : DbContext
     {
-        public TraffiSnoozeContext() : base("SqlLiteContext")
+        public TraffiSnoozeContext()
         {
-            Configuration.LazyLoadingEnabled = false;
-            Configuration.ProxyCreationEnabled = false;
-
-            Database.SetInitializer(new DropCreateDatabaseIfModelChanges<TraffiSnoozeContext>());
+            Database.EnsureCreated();
+            
         }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            var connectionStringBuilder = new SqliteConnectionStringBuilder { DataSource = Constants.DbLocation };
+            var connectionString = connectionStringBuilder.ToString();
+            var connection = new SqliteConnection(connectionString);
+
+            optionsBuilder.UseSqlite(connection);
+        }
+
+        
 
         public DbSet<Route> Routes { get; set; }
         public DbSet<Location> Locations { get; set; }
@@ -26,8 +33,7 @@ namespace TraffiSnooze.Data.EF
         public DbSet<RouteStat> RouteStats { get; set; }
         public DbSet<WakeUpRoutine> RouteTriggers { get; set; }
 
-
-        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
@@ -38,21 +44,23 @@ namespace TraffiSnooze.Data.EF
             var wakeuproutine = modelBuilder.Entity<WakeUpRoutine>();
             var user = modelBuilder.Entity<User>();
 
-            route.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            routeStat.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            location.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            routeSegment.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            wakeuproutine.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
-            user.Property(p => p.Id).HasDatabaseGeneratedOption(DatabaseGeneratedOption.Identity);
+            route.HasKey(x => x.Id);
+            routeStat.HasKey(x => x.Id);
+            location.HasKey(x => x.Id);
+            routeSegment.HasKey(x => x.Id);
+            wakeuproutine.HasKey(x => x.Id);
+            user.HasKey(x => x.Id);
 
-            route.HasRequired(x => x.Start).WithMany().WillCascadeOnDelete(false);
-            route.HasRequired(x => x.End).WithMany().WillCascadeOnDelete(false);
+            route.HasOne(x => x.Start);
+            route.HasOne(x => x.End);
 
-            routeSegment.HasRequired(x => x.Start).WithMany().WillCascadeOnDelete(false);
-            routeSegment.HasRequired(x => x.End).WithMany().WillCascadeOnDelete(false);
+            routeSegment.HasOne(x => x.Start);
+            routeSegment.HasOne(x => x.End);
 
+            route.HasOne(x => x.LastRouteStat);
+            route.HasMany(x => x.RouteStats).WithOne(x => x.Route);
 
-
+            base.OnModelCreating(modelBuilder);
         }
     }
 }

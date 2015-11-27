@@ -15,15 +15,7 @@ namespace TraffiSnooze.Scrape
         {
             using(var ctx = new TraffiSnoozeContext())
             {
-                var data = ctx.Set<User>();
-                var usr = new User
-                {
-                    Password = "lol",
-                    UserName = "lol"
-                };
-
-                data.Add(usr);
-                ctx.SaveChanges();
+                ctx.Database.EnsureCreated();
             }
         }
     }

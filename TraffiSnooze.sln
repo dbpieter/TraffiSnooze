@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraffiSnooze.Domain", "Traf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraffiSnooze.Scrape", "TraffiSnooze.Scrape\TraffiSnooze.Scrape.csproj", "{07FBB1C2-D169-4182-9344-278B84B3F9DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraffiSnooze.Bootstrapper", "TraffiSnooze.Bootstrapper\TraffiSnooze.Bootstrapper.csproj", "{35662C24-BBA6-481A-8AF2-DFA82FF37586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{07FBB1C2-D169-4182-9344-278B84B3F9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FBB1C2-D169-4182-9344-278B84B3F9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FBB1C2-D169-4182-9344-278B84B3F9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35662C24-BBA6-481A-8AF2-DFA82FF37586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35662C24-BBA6-481A-8AF2-DFA82FF37586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35662C24-BBA6-481A-8AF2-DFA82FF37586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35662C24-BBA6-481A-8AF2-DFA82FF37586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
