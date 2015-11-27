@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TraffiSnooze.Data.Models.Waze
+namespace TraffiSnooze.Data.ExternalModels.Waze
 {
 
     public class Rootobject

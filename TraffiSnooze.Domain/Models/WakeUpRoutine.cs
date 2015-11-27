@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace TraffiSnooze.Domain.Models
 {
-    public class RouteStat
+    public class WakeUpRoutine
     {
 
         public Guid Id { get; set; }
 
         public Guid RouteId { get; set; }
         public virtual Route Route { get; set; }
+        
+        public DateTime ShouldArriveAt { get; set; }
 
-        public DateTime CaptureTime { get; set; }
-
-        public TimeSpan Duration { get; set; }
+        public TimeSpan TimeNeededAfterWakeUp { get; set; }
     }
 }

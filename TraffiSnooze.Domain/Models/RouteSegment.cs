@@ -6,15 +6,14 @@ using System.Threading.Tasks;
 
 namespace TraffiSnooze.Domain.Models
 {
-    public class Location
+    public class RouteSegment
     {
-
         public Guid Id { get; set; }
 
-        public string Name { get; set; }
+        public Guid StartId { get; set; }
+        public Location Start { get; set; }
 
-        public float X { get; set; }
-
-        public float Y { get; set; }
+        public Guid EndId { get; set; }
+        public Location End { get; set; }
     }
 }
