@@ -10,21 +10,25 @@ using System.Threading.Tasks;
 namespace TraffiSnooze.Data.Common
 {
 
-    public class ComicVineApiRepo
+    public class ApiRepoBase
     {
 
         private HttpClient client;
 
-        public ComicVineApiRepo(string baseAddress)
+        public ApiRepoBase(string baseAddress)
         {
+            baseAddress = baseAddress.TrimEnd('/').TrimStart('/');
             client = new HttpClient();
             client.BaseAddress = new Uri(baseAddress);
         }
 
         private async Task<string> GetStringAsync(string requestRelativeUri, IEnumerable<UrlParam> parameters)
         {
+            //ensure no slashes are present on the ends of the relative uri
             requestRelativeUri = requestRelativeUri.TrimEnd('/').TrimStart('/');
+
             StringBuilder bldr = new StringBuilder();
+
             bldr.Append($"{requestRelativeUri}/");
 
             foreach (var param in parameters)

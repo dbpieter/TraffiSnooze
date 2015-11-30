@@ -144,6 +144,7 @@
     <Compile Include="Common\UrlParam.cs" />
     <Compile Include="EF\TraffiSnoozeContext.cs" />
     <Compile Include="ExternalModels\Waze\Models.cs" />
+    <Compile Include="ExternalServices\WazeRoutingService.cs" />
     <Compile Include="Migrations\20151127150116_Initial.cs" />
     <Compile Include="Migrations\20151127150116_Initial.designer.cs">
       <DependentUpon>20151127150116_Initial.cs</DependentUpon>

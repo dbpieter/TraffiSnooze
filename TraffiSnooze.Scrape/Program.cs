@@ -13,10 +13,7 @@ namespace TraffiSnooze.Scrape
     {
         static void Main(string[] args)
         {
-            using(var ctx = new TraffiSnoozeContext())
-            {
-                ctx.Database.EnsureCreated();
-            }
+
         }
     }
 }

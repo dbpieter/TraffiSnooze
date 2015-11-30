@@ -9,11 +9,6 @@ namespace TraffiSnooze.Data.ExternalModels.Waze
 
     public class Rootobject
     {
-        public Alternative[] alternatives { get; set; }
-    }
-
-    public class Alternative
-    {
         public Response response { get; set; }
         public Coord[] coords { get; set; }
         public object segCoords { get; set; }
@@ -26,7 +21,7 @@ namespace TraffiSnooze.Data.ExternalModels.Waze
         public object[] tileIds { get; set; }
         public object[] tileUpdateTimes { get; set; }
         public object geom { get; set; }
-        public float fromFraction { get; set; }
+        public int fromFraction { get; set; }
         public float toFraction { get; set; }
         public bool sameFromSegment { get; set; }
         public bool sameToSegment { get; set; }
@@ -43,6 +38,8 @@ namespace TraffiSnooze.Data.ExternalModels.Waze
         public string astarResult { get; set; }
         public object astarData { get; set; }
         public bool isRestricted { get; set; }
+        public string avoidStatus { get; set; }
+        public object dueToOverride { get; set; }
         public object segGeoms { get; set; }
         public string routeName { get; set; }
     }
@@ -93,5 +90,6 @@ namespace TraffiSnooze.Data.ExternalModels.Waze
         public float y { get; set; }
         public string z { get; set; }
     }
+
 
 }
