@@ -1,0 +1,14 @@
+{
+  "name": "TraffiSnooze.ScrapeJS",
+  "version": "0.0.0",
+  "description": "TraffiSnooze.ScrapeJS",
+  "main": "app.js",
+  "author": {
+    "name": "pieter",
+    "email": ""
+  },
+  "dependencies": {
+    "nightmare": "^2.0.8",
+    "vo": "^1.0.3"
+  }
+}
