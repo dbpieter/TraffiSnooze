@@ -30,7 +30,7 @@ namespace TraffiSnooze.Data.EF
         public DbSet<Route> Routes { get; set; }
         public DbSet<Location> Locations { get; set; }
         public DbSet<RouteSegment> RouteSegments { get; set; }
-        public DbSet<RouteStat> RouteStats { get; set; }
+        public DbSet<RouteSegmentStat> RouteStats { get; set; }
         public DbSet<WakeUpRoutine> RouteTriggers { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -38,7 +38,7 @@ namespace TraffiSnooze.Data.EF
             base.OnModelCreating(modelBuilder);
 
             var route = modelBuilder.Entity<Route>();
-            var routeStat = modelBuilder.Entity<RouteStat>();
+            var routeStat = modelBuilder.Entity<RouteSegmentStat>();
             var location = modelBuilder.Entity<Location>();
             var routeSegment = modelBuilder.Entity<RouteSegment>();
             var wakeuproutine = modelBuilder.Entity<WakeUpRoutine>();

@@ -15,5 +15,7 @@ namespace TraffiSnooze.Domain.Models
 
         public Guid EndId { get; set; }
         public Location End { get; set; }
+
+        public virtual ICollection<RouteSegmentStat> RouteStats { get; set; }
     }
 }

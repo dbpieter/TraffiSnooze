@@ -5,9 +5,12 @@
   "main": "app.js",
   "author": {
     "name": "pieter",
-    "email": ""
+    "email": "dbpieter@gmail.com"
   },
   "dependencies": {
+    "azure": "^0.10.6",
+    "commander": "^2.9.0",
+    "lodash": "^3.10.1",
     "nightmare": "^2.0.8",
     "vo": "^1.0.3"
   }

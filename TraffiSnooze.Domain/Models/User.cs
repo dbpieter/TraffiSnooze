@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SleepTitle.Domain.Models
+namespace TraffiSnooze.Domain.Models
 {
     public class User
     {
@@ -13,5 +9,7 @@ namespace SleepTitle.Domain.Models
 
         public string UserName { get; set; }
         public string Password { get; set; }
+
+        public virtual WakeUpRoutine WakeUpRoutine { get; set; }
     }
 }

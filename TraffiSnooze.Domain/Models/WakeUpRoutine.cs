@@ -13,6 +13,8 @@ namespace TraffiSnooze.Domain.Models
 
         public Guid RouteId { get; set; }
         public virtual Route Route { get; set; }
+
+        public string Name { get; set;}
         
         public DateTime ShouldArriveAt { get; set; }
 

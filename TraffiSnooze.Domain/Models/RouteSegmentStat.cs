@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TraffiSnooze.Domain.Models
 {
-    public class RouteStat
+    public class RouteSegmentStat
     {
 
         public Guid Id { get; set; }

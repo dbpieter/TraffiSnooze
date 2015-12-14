@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraffiSnooze.Bootstrapper",
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "TraffiSnooze.ScrapeJS", "TraffiSnooze.ScrapeJS\TraffiSnooze.ScrapeJS.njsproj", "{EB67AEDE-72DD-44EF-BD79-776B37AED24A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraffiSnooze.ConsoleTest", "TraffiSnooze.ConsoleTest\TraffiSnooze.ConsoleTest.csproj", "{F23C36E8-182F-4CE9-B560-17E45957A405}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{EB67AEDE-72DD-44EF-BD79-776B37AED24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB67AEDE-72DD-44EF-BD79-776B37AED24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB67AEDE-72DD-44EF-BD79-776B37AED24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23C36E8-182F-4CE9-B560-17E45957A405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23C36E8-182F-4CE9-B560-17E45957A405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23C36E8-182F-4CE9-B560-17E45957A405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23C36E8-182F-4CE9-B560-17E45957A405}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
