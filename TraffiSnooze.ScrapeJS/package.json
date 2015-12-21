@@ -12,6 +12,8 @@
     "commander": "^2.9.0",
     "lodash": "^3.10.1",
     "nightmare": "^2.0.8",
+    "scrapejs": "^1.0.4",
+    "scraperjs": "^1.2.0",
     "vo": "^1.0.3"
   }
 }

@@ -17,7 +17,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>eb67aede-72dd-44ef-bd79-776b37aed24a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>traveltime.js</StartupFile>
+    <StartupFile>locations.js</StartupFile>
     <StartWebBrowser>False</StartWebBrowser>
     <SearchPath>
     </SearchPath>

@@ -51,14 +51,14 @@ namespace TraffiSnooze.Data.EF
             wakeuproutine.HasKey(x => x.Id);
             user.HasKey(x => x.Id);
 
-            route.HasOne(x => x.Start);
-            route.HasOne(x => x.End);
+            //route.HasOne(x => x.Start);
+            //route.HasOne(x => x.End);
 
             routeSegment.HasOne(x => x.Start);
             routeSegment.HasOne(x => x.End);
 
-            route.HasOne(x => x.LastRouteStat);
-            route.HasMany(x => x.RouteStats).WithOne(x => x.Route);
+            //route.HasOne(x => x.LastRouteStat);
+            //route.HasMany(x => x.RouteStats).WithOne(x => x.Route);
 
             base.OnModelCreating(modelBuilder);
         }

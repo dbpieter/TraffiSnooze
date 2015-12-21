@@ -210,3 +210,6 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# ignore node_modules/
+**/node_modules/
