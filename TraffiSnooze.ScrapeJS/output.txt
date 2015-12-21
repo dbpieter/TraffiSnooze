@@ -1,0 +1,3650 @@
+  A1 – E19 Binnensingel
+  A1 – E19 Binnensingel
+  A1 – E19 Brecht
+  A1 – E19 Craeybeckxtunnel
+  A1 – E19 Craeybeckxtunnel
+  A1 – E19 Grens Nederland
+  A1 – E19 Grens Nederland
+  A1 – E19 Kleine Bareel
+  A1 – E19 Kontich
+  A1 – E19 Loenhout
+  A1 – E19 Mechelen Noord
+  A1 – E19 Mechelen Zuid
+  A1 – E19 Meer
+  A1 – E19 Rumst
+  A1 – E19 St. Job in 't Goor
+  A1 – E19 U.Z.A.
+  A1 – E19 uitrit 1
+  A1 – E19 uitrit 10
+  A1 – E19 uitrit 11
+  A1 – E19 uitrit 2
+  A1 – E19 uitrit 3
+  A1 – E19 uitrit 4
+  A1 – E19 uitrit 5
+  A1 – E19 uitrit 6
+  A1 – E19 uitrit 6a
+  A1 – E19 uitrit 7
+  A1 – E19 uitrit 8
+  A1 – E19 uitrit 9
+  A1 – E19 Wilrijk
+  A1 – E19 Zemst
+  A10 - E40
+  A10 - E40
+  A10 – E40 Aalst
+  A10 – E40 Aalter
+  A10 – E40 Affligem
+  A10 – E40 Beernem
+  A10 – E40 Brugge
+  A10 – E40 Drongen
+  A10 – E40 Erpe - Mere
+  A10 – E40 Gent St. Pieters Station
+  A10 – E40 Gewestgrens
+  A10 – E40 Jabbeke De Haan
+  A10 – E40 Loppem
+  A10 – E40 Merelbeke
+  A10 – E40 Nevele
+  A10 – E40 Oostende
+  A10 – E40 Oostkamp
+  A10 – E40 Sint Agatha Berchem
+  A10 – E40 St-Denijs-Westrem
+  A10 – E40 Ternat
+  A10 – E40 uitrit 10
+  A10 – E40 uitrit 11
+  A10 – E40 uitrit 12
+  A10 – E40 uitrit 13
+  A10 – E40 uitrit 14
+  A10 – E40 uitrit 15
+  A10 – E40 uitrit 16
+  A10 – E40 uitrit 17
+  A10 – E40 uitrit 18
+  A10 – E40 uitrit 19
+  A10 – E40 uitrit 19a
+  A10 – E40 uitrit 20
+  A10 – E40 uitrit 4
+  A10 – E40 uitrit 5
+  A10 – E40 uitrit 6
+  A10 – E40 uitrit 7
+  A10 – E40 uitrit 8
+  A10 – E40 uitrit 9
+  A10 – E40 Wetteren
+  A10 – E40 Zandvoorde
+  A112 Kiel
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12
+  A12 Aartselaar
+  A12 Berchem
+  A12 Berendrecht
+  A12 Bevrijdingstunnel
+  A12 Boom
+  A12 Boom
+  A12 Breendonk
+  A12 Ekeren
+  A12 Ekerse Steenweg
+  A12 Gewestgrens
+  A12 Grote Linde - Laken
+  A12 Leugenberg
+  A12 Londerzeel
+  A12 Londerzeel Industrie
+  A12 Poldervliet
+  A12 Stabroek
+  A12 Strombeek Bever Centrum
+  A12 uitrit 1
+  A12 uitrit 11
+  A12 uitrit 12
+  A12 uitrit 13
+  A12 uitrit 14
+  A12 uitrit 15
+  A12 uitrit 16
+  A12 uitrit 2
+  A12 uitrit 5
+  A12 Willebroek Noord
+  A12 Willebroek Zuid
+  A12 Wilrijk
+  A12 Wilrijk - Jules Moretuslei
+  A12 Wilrijk - Krijgsbaan
+  A12 Wolvertem
+  A12 Zandvliet
+  A13 – E313 Beringen
+  A13 – E313 Bilzen Hoeselt
+  A13 – E313 Boirs
+  A13 – E313 Borgerhout
+  A13 – E313 Diepenbeek
+  A13 – E313 Geel Oost
+  A13 – E313 Geel West
+  A13 – E313 Hasselt Oost
+  A13 – E313 Hasselt West
+  A13 – E313 Hasselt Zuid
+  A13 – E313 Herentals Industriezone
+  A13 – E313 Herentals Oost
+  A13 – E313 Herentals West
+  A13 – E313 Kwaadmechelen (Ham)
+  A13 – E313 Liers
+  A13 – E313 Luik
+  A13 – E313 Massenhoven
+  A13 – E313 Tessenderlo
+  A13 – E313 Tongeren
+  A13 – E313 uitrit 17
+  A13 – E313 uitrit 18
+  A13 – E313 uitrit 19
+  A13 – E313 uitrit 20
+  A13 – E313 uitrit 21
+  A13 – E313 uitrit 22
+  A13 – E313 uitrit 23
+  A13 – E313 uitrit 24
+  A13 – E313 uitrit 25
+  A13 – E313 uitrit 25a
+  A13 – E313 uitrit 26
+  A13 – E313 uitrit 27
+  A13 – E313 uitrit 28
+  A13 – E313 uitrit 29
+  A13 – E313 uitrit 30
+  A13 – E313 uitrit 31
+  A13 – E313 uitrit 32
+  A13 – E313 uitrit 33
+  A13 – E313 uitrit 34
+  A13 – E313 Wommelgem
+  A14 Beervelde
+  A14 De Pinte
+  A14 Deerlijk
+  A14 Deinze
+  A14 Destelbergen
+  A14 Gentbrugge
+  A14 Haasdonk
+  A14 Kortrijk Oost
+  A14 Kortrijk Zuid
+  A14 Kruibeke
+  A14 Kruishoutem
+  A14 Lokeren
+  A14 Moeskroen
+  A14 Rekkem (grens)
+  A14 St.-Niklaas Centrum
+  A14 St.-Niklaas West
+  A14 U.Z.G. / Gent Centrum
+  A14 uitrit
+  A14 uitrit 1
+  A14 uitrit 10
+  A14 uitrit 11
+  A14 uitrit 12
+  A14 uitrit 13
+  A14 uitrit 14
+  A14 uitrit 15
+  A14 uitrit 15a
+  A14 uitrit 16
+  A14 uitrit 17
+  A14 uitrit 2
+  A14 uitrit 3
+  A14 uitrit 4
+  A14 uitrit 5
+  A14 uitrit 6
+  A14 uitrit 7
+  A14 uitrit 8
+  A14 uitrit 9
+  A14 Waasmunster
+  A14 Waregem
+  A14 Zwijndrecht
+  A15 Andenne
+  A15 Chapelle-Lez-Herlaimont
+  A15 Courcelles
+  A15 Fernelmont
+  A15 Flemalle
+  A15 Fleurus
+  A15 Gosselies Nord
+  A15 Hingeon
+  A15 Hoei
+  A15 Houdeng
+  A15 Huy-Braives
+  A15 Luchthaven Luik
+  A15 Manage
+  A15 Namen West
+  A15 Sambreville
+  A15 Spy
+  A15 St-Georges
+  A15 uitrit 10
+  A15 uitrit 10a
+  A15 uitrit 12
+  A15 uitrit 13
+  A15 uitrit 14
+  A15 uitrit 15
+  A15 uitrit 16
+  A15 uitrit 17
+  A15 uitrit 18
+  A15 uitrit 19
+  A15 uitrit 20
+  A15 uitrit 3
+  A15 uitrit 4
+  A15 uitrit 5
+  A15 uitrit 6
+  A15 uitrit 7
+  A15 uitrit 8
+  A15 uitrit 9
+  A15 Villers-Le-Bouillet
+  A16 Antoing
+  A16 Bernissart
+  A16 Blaton
+  A16 Doornik Kain
+  A16 Maubray
+  A16 Peruwelz
+  A16 Pommeroeul
+  A16 uitrit 26
+  A16 uitrit 27
+  A16 uitrit 28
+  A16 uitrit 29
+  A16 uitrit 30
+  A16 uitrit 31
+  A16 uitrit 32
+  A16 uitrit 33
+  A16 Vaulx Doornik Oost
+  A17 Estaimpuis
+  A17 Estaimpuis - Dottenijs
+  A17 Estaimpuis - Moeskroen
+  A17 Gewestgrens
+  A17 Lichtervelde
+  A17 Roeselare Beveren
+  A17 Roeselare Izegem Haven
+  A17 Roeselare Rumbeke
+  A17 Ruddervoorde
+  A17 Templeuve
+  A17 Torhout
+  A17 uitrit
+  A17 uitrit
+  A17 uitrit 1
+  A17 uitrit 10
+  A17 uitrit 11
+  A17 uitrit 2
+  A17 uitrit 3
+  A17 uitrit 5
+  A17 uitrit 6
+  A17 uitrit 7
+  A17 uitrit 8
+  A17 uitrit 9
+  A17 Wevelgem
+  A18 Adinkerke
+  A18 Gistel
+  A18 Grens Frankrijk
+  A18 Middelkerke
+  A18 Nieuwpoort
+  A18 Oostduinkerke
+  A18 uitrit 1
+  A18 uitrit 1a
+  A18 uitrit 2
+  A18 uitrit 3
+  A18 uitrit 4
+  A18 uitrit 5
+  A18 Veurne
+  A19  Ieper Centrum
+  A19  Ieper Noord
+  A19  Wervik
+  A19  Zonnebeke Beselaere
+  A19 Gullegem Moorsele
+  A19 Menen
+  A19 Ring Kortrijk
+  A19 uitrit
+  A19 uitrit 2
+  A19 uitrit 2a
+  A19 uitrit 3
+  A19 uitrit 4
+  A19 uitrit 5
+  A2 – E314 Aarschot
+  A2 – E314 Bekkevoort
+  A2 – E314 Gasthuisberg
+  A2 – E314 Genk Centrum
+  A2 – E314 Genk Oost
+  A2 – E314 Grens Nederland
+  A2 – E314 Halen
+  A2 – E314 Herent
+  A2 – E314 Holsbeek
+  A2 – E314 Houthalen-Helchteren
+  A2 – E314 Leuven
+  A2 – E314 Lummen Centrum
+  A2 – E314 Maasmechelen
+  A2 – E314 Park Midden Limburg
+  A2 – E314 Tielt Winge
+  A2 – E314 uitrit 15
+  A2 – E314 uitrit 16
+  A2 – E314 uitrit 17
+  A2 – E314 uitrit 18
+  A2 – E314 uitrit 19
+  A2 – E314 uitrit 20
+  A2 – E314 uitrit 21
+  A2 – E314 uitrit 22
+  A2 – E314 uitrit 23
+  A2 – E314 uitrit 24
+  A2 – E314 uitrit 25
+  A2 – E314 uitrit 26
+  A2 – E314 uitrit 27
+  A2 – E314 uitrit 28
+  A2 – E314 uitrit 29
+  A2 – E314 uitrit 30
+  A2 – E314 uitrit 31
+  A2 – E314 uitrit 32
+  A2 – E314 uitrit 33
+  A2 – E314 Wilsele De Vunt
+  A2 – E314 Wilsele Dorp
+  A2 – E314 Winksele
+  A2 – E314 Zolder
+  A2 – E314 Zolder Terlamen
+  A201 Diegem
+  A201 Diegem Industrie
+  A201 Gewestgrens
+  A201 Navo
+  A201 uitrit 1
+  A201 uitrit 2
+  A201 Van Dijcklaan
+  A202 Nijvelse Steenweg
+  A21 Beerse
+  A21 Grens Nederland
+  A21 Lille
+  A21 Oelegem
+  A21 Oud Turnhout
+  A21 Retie
+  A21 Turnhout Centrum
+  A21 Turnhout West
+  A21 uitrit 19
+  A21 uitrit 20
+  A21 uitrit 21
+  A21 uitrit 22
+  A21 uitrit 23
+  A21 uitrit 24
+  A21 uitrit 25
+  A21 uitrit 26
+  A21 Zoersel
+  A25 Argenteau
+  A25 Bressoux - Coronmeuse
+  A25 Cheratte 1
+  A25 Grens Nederland
+  A25 Luik-Monsin
+  A25 Moelingen
+  A25 uitrit
+  A25 uitrit 1
+  A25 uitrit 2
+  A25 uitrit 3
+  A25 uitrit 4
+  A25 uitrit 5
+  A25 uitrit 6
+  A25 uitrit 7
+  A25 Wandre
+  A25 Wezet
+  A26 Angleur
+  A26 Aywaille-Remouchamps
+  A26 Bastogne
+  A26 Beaufays
+  A26 Chenee – Luik
+  A26 Chenee – Luik 1
+  A26 Embourg
+  A26 Ferrieres - Werbomont
+  A26 Gomze-Andoumont
+  A26 Harre
+  A26 Harze
+  A26 Hemroulle-Bastogne
+  A26 Houffalize
+  A26 Mabompre
+  A26 Manhay
+  A26 Nives
+  A26 Sprimont
+  A26 Tilff-Cortil
+  A26 Tilff-Esneux
+  A26 uitrit 38
+  A26 uitrit 39
+  A26 uitrit 39b
+  A26 uitrit 40
+  A26 uitrit 41
+  A26 uitrit 42
+  A26 uitrit 43
+  A26 uitrit 44
+  A26 uitrit 45
+  A26 uitrit 46
+  A26 uitrit 47
+  A26 uitrit 48
+  A26 uitrit 48b
+  A26 uitrit 49
+  A26 uitrit 50
+  A26 uitrit 51
+  A26 uitrit 52
+  A26 uitrit 53
+  A26 uitrit 54
+  A26 uitrit 55
+  A26 uitrit 56
+  A26 Vielsalm-Baraque De Fraiture
+  A26 Villeroux-Bastogne
+  A27 Bellevaux
+  A27 Chaineux
+  A27 Dison
+  A27 Ensival-Verviers
+  A27 Francorchamps
+  A27 Grens Duitsland
+  A27 Herve
+  A27 Lambermont-Verviers
+  A27 Lommersweiler
+  A27 Malmedy
+  A27 Recht
+  A27 Sankt Vith Sud
+  A27 Sart-Jalhay
+  A27 Spa
+  A27 St-Vith-Nord
+  A27 St-Vith-Sud
+  A27 Theux
+  A27 uitrit 1
+  A27 uitrit 10
+  A27 uitrit 11
+  A27 uitrit 12
+  A27 uitrit 13
+  A27 uitrit 14
+  A27 uitrit 15
+  A27 uitrit 16
+  A27 uitrit 2
+  A27 uitrit 3
+  A27 uitrit 4
+  A27 uitrit 5
+  A27 uitrit 6
+  A27 uitrit 7
+  A27 uitrit 8
+  A27 uitrit 9
+  A27 Verviers
+  A28 Athus
+  A28 Aubange
+  A28 Grens Frankrijk
+  A28 Longeau
+  A28 Selange
+  A28 uitrit
+  A28 uitrit 1
+  A28 uitrit 2
+  A28 uitrit 3
+  A28 uitrit 4
+  A3 – E40 Alleur
+  A3 – E40 Barchon
+  A3 – E40 Berloz
+  A3 – E40 Bertem
+  A3 – E40 Boutersem
+  A3 – E40 Crisnee
+  A3 – E40 Eupen
+  A3 – E40 Evere
+  A3 – E40 Eynatten
+  A3 – E40 Gewestgrens
+  A3 – E40 Grens Duitsland
+  A3 – E40 Haasrode
+  A3 – E40 Helecine
+  A3 – E40 Hermee-Hauts-Sarts
+  A3 – E40 Herstal
+  A3 – E40 Herve
+  A3 – E40 Hognoul
+  A3 – E40 Kraainem
+  A3 – E40 Landen
+  A3 – E40 Lichtenbusch
+  A3 – E40 Reyers
+  A3 – E40 Rocourt
+  A3 – E40 Sterrebeek
+  A3 – E40 Thimister-Clermont
+  A3 – E40 Tienen
+  A3 – E40 uitrit 18
+  A3 – E40 uitrit 19
+  A3 – E40 uitrit 20
+  A3 – E40 uitrit 21
+  A3 – E40 uitrit 22
+  A3 – E40 uitrit 23
+  A3 – E40 uitrit 24
+  A3 – E40 uitrit 25
+  A3 – E40 uitrit 26
+  A3 – E40 uitrit 27
+  A3 – E40 uitrit 28
+  A3 – E40 uitrit 28a
+  A3 – E40 uitrit 29
+  A3 – E40 uitrit 30
+  A3 – E40 uitrit 31
+  A3 – E40 uitrit 32
+  A3 – E40 uitrit 33
+  A3 – E40 uitrit 34
+  A3 – E40 uitrit 35
+  A3 – E40 uitrit 36
+  A3 – E40 uitrit 37
+  A3 – E40 uitrit 37bis
+  A3 – E40 uitrit 38
+  A3 – E40 uitrit 38bis
+  A3 – E40 uitrit 39
+  A3 – E40 uitrit 40
+  A3 – E40 Welkenraedt
+  A3-E40 Borgworm
+  A3-E40 Lijsem
+  A4 Aarlen
+  A4 Achene
+  A4 AIDEPS - Centre sportif forêt de Soignes
+  A4 Beaulieu (M)
+  A4 Bierges
+  A4 Bouge
+  A4 Champion
+  A4 Corroy-Le-Grand
+  A4 Courriere
+  A4 Courriere 1
+  A4 Custine - Houyet
+  A4 Eghezee
+  A4 Gewestgrens
+  A4 Grens Luxemburg
+  A4 Habay
+  A4 Hermann-Debroux
+  A4 Hoeilaart
+  A4 Jezus-Eik
+  A4 Lavaux-Ste-Anne
+  A4 Leglise
+  A4 Libramont-Chevigny
+  A4 Longlier - Neufchateau
+  A4 Louvain La Neuve
+  A4 Louvranges
+  A4 Loyers
+  A4 Overijse
+  A4 Rochefort
+  A4 Rosieres
+  A4 Rulles
+  A4 Spontin
+  A4 Sterpenich
+  A4 Stockem
+  A4 Tellin
+  A4 Thorembais-St.-Trond
+  A4 Transinne
+  A4 Tunnel Delta
+  A4 uitrit
+  A4 uitrit 10
+  A4 uitrit 11
+  A4 uitrit 12
+  A4 uitrit 13
+  A4 uitrit 14
+  A4 uitrit 15
+  A4 uitrit 16
+  A4 uitrit 18
+  A4 uitrit 18b
+  A4 uitrit 19
+  A4 uitrit 2
+  A4 uitrit 20
+  A4 uitrit 21
+  A4 uitrit 22
+  A4 uitrit 22a
+  A4 uitrit 23
+  A4 uitrit 23a
+  A4 uitrit 24
+  A4 uitrit 25
+  A4 uitrit 26
+  A4 uitrit 27
+  A4 uitrit 28
+  A4 uitrit 28a
+  A4 uitrit 29
+  A4 uitrit 3
+  A4 uitrit 30
+  A4 uitrit 31
+  A4 uitrit 33 
+  A4 uitrit 4
+  A4 uitrit 5
+  A4 uitrit 6
+  A4 uitrit 7
+  A4 uitrit 8
+  A4 uitrit 8a
+  A4 uitrit 9
+  A4 ULB - Jardin Massart
+  A4 Verlaine
+  A4 Walhain
+  A4 Waver Zuid
+  A4 Wavre
+  A4 Wellin
+  A4 Wierde
+  A501 Bois-D'Haine Noord
+  A501 La Louviere
+  A501 Mignault
+  A501 uitrit 1
+  A501 uitrit 2
+  A501 uitrit 3
+  A503 Av. Mascaux
+  A503 Marcinelle Centrum
+  A503 Marcinelle Zuid
+  A503 Mont - Sur - Marchienne
+  A503 uitrit 31
+  A503 uitrit 32
+  A503 uitrit 33
+  A503 uitrit 34
+  A54 Charleroi
+  A54 Gosselies-Luchthaven
+  A54 Gosselies-West
+  A54 Jumet-Noord
+  A54 Jumet-Oost
+  A54 Lodelinsart
+  A54 Luttre
+  A54 Petit-Roeulx
+  A54 uitrit 20
+  A54 uitrit 21
+  A54 uitrit 22
+  A54 uitrit 23
+  A54 uitrit 24
+  A54 uitrit 25
+  A54 uitrit 26
+  A54 uitrit 27
+  A602 18 Arcades
+  A602 Avroy-Laveu
+  A602 Bonne Fortune
+  A602 Burenville
+  A602 Chenee - Liege
+  A602 Grosses Battes
+  A602 Guillemins
+  A602 Liege-Ans
+  A602 St-Laurent
+  A602 uitrit 31a
+  A602 uitrit 32
+  A602 uitrit 33
+  A602 uitrit 34
+  A602 uitrit 35
+  A602 uitrit 36
+  A602 uitrit 37
+  A602 uitrit 38
+  A602 uitrit 39
+  A602 uitrit 39b
+  A602 Val Benoit
+  A604 Bierset
+  A604 Grace-Hollogne 1
+  A604 Jemeppe
+  A604 Jemeppe-Noord
+  A604 uitrit 1
+  A604 uitrit 2
+  A604 uitrit 3
+  A604 uitrit 4
+  A7 Dour
+  A7 Feluy
+  A7 Grens Frankrijk
+  A7 Le Roeulx
+  A7 Mons
+  A7 Nijvel Noord
+  A7 Nijvel Zuid
+  A7 Nimy-Maisieres
+  A7 St-Ghislain
+  A7 Thieu
+  A7 uitrit 18
+  A7 uitrit 19
+  A7 uitrit 20
+  A7 uitrit 21
+  A7 uitrit 22
+  A7 uitrit 23
+  A7 uitrit 24
+  A7 uitrit 25
+  A7 uitrit 26
+  A8 Ath
+  A8 Bassilly
+  A8 Bierghes
+  A8 Doornik Froyennes
+  A8 Doornik Nord
+  A8 Doornik-Blandain
+  A8 Edingen
+  A8 Grens Frankrijk
+  A8 Hacquegnies
+  A8 Hondzocht
+  A8 Hoves
+  A8 Lembeek
+  A8 Lessen
+  A8 Marcq
+  A8 uitrit 22
+  A8 uitrit 23
+  A8 uitrit 24
+  A8 uitrit 25
+  A8 uitrit 26
+  A8 uitrit 27
+  A8 uitrit 28
+  A8 uitrit 29
+  A8 uitrit 30 
+  A8 uitrit 31
+  A8 uitrit 33
+  A8 uitrit 34
+  A8 uitrit 35
+  Aaigem
+  Aalbeke
+  Aalbeke A14 / A17 – E403
+  Aalst
+  Aalter
+  Aarlen
+  Aarschot
+  Aarsele
+  Aartrijke
+  Aartselaar
+  Aat
+  Abée
+  Abolens
+  Achel
+  Achêne
+  Achet
+  Acosse
+  Acoz
+  Adegem
+  Adinkerke
+  Affligem
+  Afsnee
+  Agimont
+  Aiseau
+  Aiseau-Presles
+  Aisemont
+  Alken
+  Alle
+  Alleur
+  Alsemberg
+  Alveringem
+  Amay
+  Amberloup
+  Amblève
+  Ambly
+  Ambresin
+  Amel
+  Amonines
+  Amougies
+  Ampsin
+  Andenne
+  Anderlecht
+  Anderlues
+  Andrimont
+  Angleur
+  Angre
+  Angreau
+  Anhée
+  Anlier
+  Anloy
+  Annevoie-Rouillon
+  Ans
+  Anseremme
+  Anseroeul
+  Anthée
+  Antheit
+  Anthisnes
+  Antoing
+  Antwerpen Centrum A112 / R1 / A14-E17
+  Antwerpen Haven A12 / R2
+  Antwerpen Noord A1 – E19 / R1 / A12
+  Antwerpen Oost A13 – E313 / R1
+  Antwerpen West A14 / R1
+  Antwerpen Zuid A1 – E19 / R1 / A12
+  Antwerpen-Berchem
+  Antwerpen-Borgerhout
+  Antwerpen-Centrum
+  Antwerpen-Dam
+  Antwerpen-Deurne
+  Antwerpen-Ekeren
+  Antwerpen-Hoboken
+  Antwerpen-Linkeroever
+  Antwerpen-Merksem
+  Antwerpen-Wilrijk
+  Anzegem
+  Appels
+  Appelterre-Eichem
+  Arbre (Ht.)
+  Arbrefontaine
+  Archennes
+  Ardooie
+  Arendonk
+  Argenteau
+  Arquennes
+  Arquennes A54 / A7 – E19
+  Arsimont
+  Arville
+  As
+  Aspelare
+  Asper
+  Asquillies
+  Asse
+  Assebroek
+  Assenede
+  Assenois
+  Assent
+  Assesse
+  Astene
+  Athis
+  Athus
+  Attenhoven
+  Attenrode
+  Attert
+  Attre
+  Aubange
+  Aubechies
+  Aubel
+  Auby-sur-Semois
+  Audregnies
+  Aulnois
+  Autelbas
+  Autreppe
+  Auvelais
+  Ave-et-Auffe
+  Avelgem
+  Avennes
+  Averbode
+  Avernas-le-Bauduin
+  Avin
+  Awans
+  Awenne
+  Awirs
+  Aye
+  Ayeneux
+  Aywaille
+  Baaigem
+  Baal
+  Baardegem
+  Baarle-Hertog
+  Baasrode
+  Bachte-Maria-Leerne
+  Baelen (Lg.)
+  Bagimont
+  Baileux
+  Bailièvre
+  Bailleul
+  Baisieux
+  Baisy-Thy
+  Balâtre
+  Balegem
+  Balen
+  Bambrugge
+  Bande
+  Barbençon
+  Barchon
+  Baronville
+  Barry
+  Barvaux-sur-Ourthe
+  Basècles
+  Bas-Oha
+  Basse-Bodeux
+  Bassenge
+  Bassevelde
+  Bastenaken
+  Bas-Warneton
+  Batsheers
+  Battice
+  Battice A27 / A3 – E40
+  Battignies
+  Baudour
+  Bauffe
+  Baugnies
+  Baulers
+  Bavegem
+  Bavikhove
+  Bazel
+  Beaufays
+  Beaumont
+  Beauraing
+  Beausaint
+  Beauwelz
+  Beclers
+  Beerlegem
+  Beernem
+  Beerse
+  Beersel
+  Beerst
+  Beert
+  Beervelde
+  Beerzel
+  Beez
+  Beffe
+  Begijnendijk
+  Beho
+  Beigem
+  Bekegem
+  Bekkerzeel
+  Bekkevoort
+  Belgrade
+  Bellaire
+  Bellecourt
+  Bellegem
+  Bellem
+  Bellevaux
+  Bellevaux-Ligneuville
+  Bellingen
+  Beloeil
+  Belsele (Sint-Niklaas)
+  Ben-Ahin
+  Bende
+  Berbroek
+  Berchem (Antwerpen)
+  Berchem (O.-Vl.)
+  Berendrecht
+  Bergen
+  Bergilers
+  Beringen
+  Berlaar
+  Berlare
+  Berlingen
+  Berloz
+  Berneau
+  Bernissart
+  Bersillies-l'Abbaye
+  Bertem
+  Bertogne
+  Bertrée
+  Bertrix
+  Berzée
+  Beselare
+  Betekom
+  Bettincourt
+  Beuzet
+  Bevekom
+  Bevel
+  Bever
+  Bevercé
+  Bevere
+  Beveren (Leie)
+  Beveren (Roeselare)
+  Beveren N49 – A11 / R2
+  Beveren-aan-den-Ijzer
+  Beveren-Waas
+  Beverlo
+  Beverst
+  Beyne-Heusay
+  Bienne-lez-Happart
+  Bierbeek
+  Biercée
+  Bierges
+  Bierghes
+  Bierset
+  Bierwart
+  Biesme
+  Biesmerée
+  Biesme-sous-Thuin
+  Bievre
+  Biez
+  Bihain
+  Bikschote
+  Bilstain
+  Bilzen
+  Binche
+  Binkom
+  Bioul
+  Bissegem
+  Bizet
+  Blaasveld
+  Blaimont
+  Blandain
+  Blanden
+  Blankenberge
+  Blaregnies
+  Blaton
+  Blaugies
+  Blégny
+  Bléharies
+  Blehen
+  Bleid
+  Bleret
+  Blicquy
+  Bocholt
+  Boechout
+  Boekhout
+  Boekhoute
+  Boëlhe
+  Boezinge
+  Bogaarden
+  Bohan
+  Boignée
+  Boirs
+  Bois – D'Haine A15 / A501
+  Bois-de-Lessines
+  Bois-d'Haine
+  Bois-et-Borsu
+  Bolland
+  Bomal-sur-Ourthe
+  Bombaye
+  Bommershoven (Haren)
+  Boncelles
+  Bonheiden
+  Boninne
+  Bonlez
+  Bonnert
+  Bonneville
+  Bon-Secours
+  Booischot
+  Boom
+  Boorsem
+  Boortmeerbeek
+  Borchtlombeek
+  Borgerhout (Antwerpen)
+  Borgloon
+  Borgworm
+  Borlo
+  Borlon
+  Bornem
+  Bornival
+  Borsbeek (Antwerpen)
+  Borsbeek (Antwerpen) (custom)
+  Borsbeke
+  Bossière
+  Bossuit
+  Bossut-Gottechain
+  Bost
+  Bothey
+  Bottelare
+  Bouffioulx
+  Bouge
+  Bougnies
+  Bouillon
+  Bourlers
+  Bourseigne-Neuve
+  Bourseigne-Vieille
+  Boussoit
+  Boussu
+  Boussu-lez-Walcourt
+  Bousval
+  Boutersem
+  Bouvignes-sur-Meuse
+  Bouvignies
+  Bouwel
+  Bovekerke
+  Bovelingen
+  Bovenistier
+  Bovesse
+  Bovigny
+  Bra
+  Braffe
+  Braibant
+  Braives
+  Brakel
+  Bras
+  Brasmenil
+  Brasschaat
+  Bray
+  Brecht
+  Bredene
+  Bree
+  Bressoux
+  Brielen
+  Broechem
+  Broekom
+  Brugelette
+  Brugge
+  Brugge A10 – E40 / A17
+  Brunehaut
+  Brussegem
+  Brussel-Anderlecht
+  Brussel-Elsene
+  Brussel-Etterbeek
+  Brussel-Evere
+  Brussel-Ganshoren
+  Brussel-Grote Markt
+  Brussel-Haren
+  Brussel-Jette
+  Brussel-Koekelberg
+  Brussel-Laken
+  Brussel-Neder-Over-Heembeek
+  Brussel-Oudergem
+  Brussel-Schaarbeek
+  Brussel-Sint-Agatha-Berchem
+  Brussel-Sint-Gillis
+  Brussel-Sint-Jans-Molenbeek
+  Brussel-Sint-Joost-Ten-Node
+  Brussel-Sint-Lambrechts-Woluwe
+  Brussel-Sint-Pieters-Woluwe
+  Brussel-Ukkel
+  Brussel-Vorst
+  Brussel-Watermaal-Bosvoorde
+  Bruyelle
+  Brye
+  Budingen
+  Buggenhout
+  Buissonville
+  Buizingen
+  Bullange
+  Büllingen
+  Bunsbeek
+  Burcht
+  Burdinne
+  Bure
+  Burg-Reuland
+  Burst
+  Bury
+  Bütgenbach
+  Buvrinnes
+  Buzenol
+  Buzet
+  Callenelle
+  Calonne
+  Cambron-Casteau
+  Cambron-Saint-Vincent
+  Carlsbourg
+  Carnières
+  Casteau (Soignies)
+  Celles (Ht.)
+  Celles (Nam.)
+  Cérexhe-Heuseux
+  Cerfontaine
+  Ceroux-Mousty
+  Chaineux
+  Chairière
+  Champion
+  Champlon
+  Chanly
+  Chantemelle
+  Chapelle-à-Oie
+  Chapelle-à-Wattines
+  Chapelle-lez-Herlaimont
+  Chapon-Seraing
+  Charleroi
+  Charneux
+  Chassepierre
+  Chastre
+  Châtelet
+  Châtelineau
+  Châtillon
+  Chaudfontaine
+  Chaumont-Gistoux
+  Chaussée-Notre-Dame-Louvignies
+  Chênée
+  Cherain
+  Cheratte
+  Cheratte A25 / A3 - E40 – E42
+  Chercq
+  Chevetogne
+  Chièvres
+  Chimay
+  Chiny
+  Chokier
+  Ciergnon
+  Ciney
+  Ciplet
+  Ciply
+  Clabecq
+  Clavier
+  Clermont (Lg.)
+  Clermont-sous-Huy
+  Cognelée
+  Colfontaine
+  Comblain-au-Pont
+  Comblain-Fairon
+  Comblain-la-Tour
+  Conneux
+  Corbais
+  Corbion
+  Corenne
+  Cornesse
+  Corroy-le-Château
+  Corroy-Le-Grand
+  Corswarem
+  Cortil-Noirmont
+  Cortil-Wodon
+  Couillet
+  Courcelles
+  Courrière
+  Court-Saint-Etienne
+  Couthuin
+  Coutisse
+  Couture-Saint-Germain
+  Couvin
+  Cras-Avernas
+  Crehen
+  Crisnée
+  Crombach
+  Crupet
+  Cuesmes
+  Cugnon
+  Custinne
+  Dadizele
+  Daknam
+  Dalhem
+  Damme
+  Dampicourt
+  Dampremy
+  Darion
+  Daussois
+  Daussoulx
+  Daussoulx A15 / A4 – E411
+  Dave
+  Daverdisse
+  De Haan
+  De Klinge
+  De Panne
+  De Pinte
+  Deerlijk
+  Deftinge
+  Deinze
+  Denderbelle
+  Denderhoutem
+  Denderleeuw
+  Dendermonde
+  Denderwindeke
+  Denée
+  Dentergem
+  Dergneau
+  Dessel
+  Desselgem
+  Destelbergen
+  Desteldonk
+  Deurle
+  Deurne (Antwerpen)
+  Deux-Acren
+  Diegem
+  Diepenbeek
+  Diest
+  Dikkebus
+  Dikkele
+  Dikkelvenne
+  Diksmuide
+  Dilbeek
+  Dilsen-Stokkem
+  Dinant
+  Dion
+  Dion-Valmont
+  Dison
+  Dochamps
+  Doel
+  Dohan
+  Doische
+  Dolembreux
+  Donceel
+  Dongelberg
+  Donk
+  Donstiennes
+  Doornik
+  Dormaal
+  Dottenijs
+  Dour
+  Dourbes
+  Dranouter
+  Dréhance
+  Driekapellen
+  Drieslinter
+  Drogenbos
+  Drongen
+  Dudzele
+  Duffel
+  Duisburg
+  Duras
+  Durbuy
+  Dworp
+  E19 - A1 Binnensingel
+  E19 - A1 Binnensingel
+  E19 - A1 Brecht
+  E19 - A1 Craeybeckxtunnel
+  E19 - A1 Craeybeckxtunnel
+  E19 - A1 Grens Nederland
+  E19 - A1 Grens Nederland
+  E19 - A1 Kleine Bareel
+  E19 - A1 Kontich
+  E19 - A1 Loenhout
+  E19 - A1 Mechelen Noord
+  E19 - A1 Mechelen Zuid
+  E19 - A1 Meer
+  E19 - A1 Rumst
+  E19 - A1 St. Job in 't Goor
+  E19 - A1 U.Z.A.
+  E19 - A1 uitrit 1
+  E19 - A1 uitrit 10
+  E19 - A1 uitrit 11
+  E19 - A1 uitrit 2
+  E19 - A1 uitrit 3
+  E19 - A1 uitrit 4
+  E19 - A1 uitrit 5
+  E19 - A1 uitrit 6
+  E19 - A1 uitrit 6a
+  E19 - A1 uitrit 7
+  E19 - A1 uitrit 8
+  E19 - A1 uitrit 9
+  E19 - A1 Wilrijk
+  E19 - A1 Zemst
+  E313 - A13 Beringen
+  E313 - A13 Bilzen Hoeselt
+  E313 - A13 Boirs
+  E313 - A13 Borgerhout
+  E313 - A13 Diepenbeek
+  E313 - A13 Geel Oost
+  E313 - A13 Geel West
+  E313 - A13 Hasselt Oost
+  E313 - A13 Hasselt West
+  E313 - A13 Hasselt Zuid
+  E313 - A13 Herentals Industriezone
+  E313 - A13 Herentals Oost
+  E313 - A13 Herentals West
+  E313 - A13 Kwaadmechelen (Ham)
+  E313 - A13 Liers
+  E313 - A13 Luik
+  E313 - A13 Massenhoven
+  E313 - A13 Tessenderlo
+  E313 - A13 Tongeren
+  E313 - A13 uitrit 17
+  E313 - A13 uitrit 18
+  E313 - A13 uitrit 19
+  E313 - A13 uitrit 20
+  E313 - A13 uitrit 21
+  E313 - A13 uitrit 22
+  E313 - A13 uitrit 23
+  E313 - A13 uitrit 24
+  E313 - A13 uitrit 25
+  E313 - A13 uitrit 25a
+  E313 - A13 uitrit 26
+  E313 - A13 uitrit 27
+  E313 - A13 uitrit 28
+  E313 - A13 uitrit 29
+  E313 - A13 uitrit 30
+  E313 - A13 uitrit 31
+  E313 - A13 uitrit 32
+  E313 - A13 uitrit 33
+  E313 - A13 uitrit 34
+  E313 - A13 Wommelgem
+  E314 - A2 Aarschot
+  E314 - A2 Bekkevoort
+  E314 - A2 Gasthuisberg
+  E314 - A2 Genk Centrum
+  E314 - A2 Genk Oost
+  E314 - A2 Grens Nederland
+  E314 - A2 Halen
+  E314 - A2 Herent
+  E314 - A2 Holsbeek
+  E314 - A2 Houthalen-Helchteren
+  E314 - A2 Leuven
+  E314 - A2 Lummen Centrum
+  E314 - A2 Maasmechelen
+  E314 - A2 Park Midden Limburg
+  E314 - A2 Tielt Winge
+  E314 - A2 uitrit 15
+  E314 - A2 uitrit 16
+  E314 - A2 uitrit 17
+  E314 - A2 uitrit 18
+  E314 - A2 uitrit 19
+  E314 - A2 uitrit 20
+  E314 - A2 uitrit 21
+  E314 - A2 uitrit 22
+  E314 - A2 uitrit 23
+  E314 - A2 uitrit 24
+  E314 - A2 uitrit 25
+  E314 - A2 uitrit 26
+  E314 - A2 uitrit 27
+  E314 - A2 uitrit 28
+  E314 - A2 uitrit 29
+  E314 - A2 uitrit 30
+  E314 - A2 uitrit 31
+  E314 - A2 uitrit 32
+  E314 - A2 uitrit 33
+  E314 - A2 Wilsele De Vunt
+  E314 - A2 Wilsele Dorp
+  E314 - A2 Winksele
+  E314 - A2 Zolder
+  E314 - A2 Zolder Terlamen
+  E40 - A10
+  E40 – A10
+  E40 - A10 Aalst
+  E40 - A10 Aalter
+  E40 - A10 Affligem
+  E40 - A10 Beernem
+  E40 - A10 Brugge
+  E40 - A10 Drongen
+  E40 - A10 Erpe - Mere
+  E40 - A10 Gent St. Pieters Station
+  E40 - A10 Gewestgrens
+  E40 - A10 Jabbeke De Haan
+  E40 - A10 Loppem
+  E40 - A10 Merelbeke
+  E40 - A10 Nevele
+  E40 - A10 Oostende
+  E40 - A10 Oostkamp
+  E40 - A10 Sint Agatha Berchem
+  E40 - A10 St-Denijs-Westrem
+  E40 - A10 Ternat
+  E40 - A10 uitrit 10
+  E40 - A10 uitrit 11
+  E40 - A10 uitrit 12
+  E40 - A10 uitrit 13
+  E40 - A10 uitrit 14
+  E40 - A10 uitrit 15
+  E40 - A10 uitrit 16
+  E40 - A10 uitrit 17
+  E40 - A10 uitrit 18
+  E40 - A10 uitrit 19
+  E40 - A10 uitrit 19a
+  E40 - A10 uitrit 20
+  E40 - A10 uitrit 4
+  E40 - A10 uitrit 5
+  E40 - A10 uitrit 6
+  E40 - A10 uitrit 7
+  E40 - A10 uitrit 8
+  E40 - A10 uitrit 9
+  E40 - A10 Wetteren
+  E40 - A10 Zandvoorde
+  E40 - A3 Alleur
+  E40 - A3 Barchon
+  E40 - A3 Berloz
+  E40 - A3 Bertem
+  E40 - A3 Boutersem
+  E40 - A3 Crisnee
+  E40 - A3 Eupen
+  E40 - A3 Evere
+  E40 - A3 Eynatten
+  E40 - A3 Gewestgrens
+  E40 - A3 Grens Duitsland
+  E40 - A3 Haasrode
+  E40 - A3 Helecine
+  E40 - A3 Hermee-Hauts-Sarts
+  E40 - A3 Herstal
+  E40 - A3 Herve
+  E40 - A3 Hognoul
+  E40 - A3 Kraainem
+  E40 - A3 Landen
+  E40 - A3 Lichtenbusch
+  E40 - A3 Reyers
+  E40 - A3 Rocourt
+  E40 - A3 Sterrebeek
+  E40 - A3 Thimister-Clermont
+  E40 - A3 Tienen
+  E40 - A3 uitrit 18
+  E40 - A3 uitrit 19
+  E40 - A3 uitrit 20
+  E40 - A3 uitrit 21
+  E40 - A3 uitrit 22
+  E40 - A3 uitrit 23
+  E40 - A3 uitrit 24
+  E40 - A3 uitrit 25
+  E40 - A3 uitrit 26
+  E40 - A3 uitrit 27
+  E40 - A3 uitrit 28
+  E40 - A3 uitrit 28a
+  E40 - A3 uitrit 29
+  E40 - A3 uitrit 30
+  E40 - A3 uitrit 31
+  E40 - A3 uitrit 32
+  E40 - A3 uitrit 33
+  E40 - A3 uitrit 34
+  E40 - A3 uitrit 35
+  E40 - A3 uitrit 36
+  E40 - A3 uitrit 37
+  E40 - A3 uitrit 37bis
+  E40 - A3 uitrit 38
+  E40 - A3 uitrit 38bis
+  E40 - A3 uitrit 39
+  E40 - A3 uitrit 40
+  E40 - A3 Welkenraedt
+  E40-A3 Borgworm
+  E40-A3 Lijsem
+  Eben-Emael
+  Ebly
+  Ecaussinnes
+  Ecaussinnes-d'Enghien
+  Ecaussinnes-Lalaing
+  Edegem
+  Edelare
+  Edingen
+  Eeklo
+  Eernegem
+  Egem
+  Eghezée
+  Ehein
+  Eigenbilzen
+  Eigenbrakel
+  Eindhout
+  Eine
+  Eisden
+  Eke
+  Ekeren (Antwerpen)
+  Eksaarde
+  Eksel
+  Elen
+  Elene
+  Elewijt
+  Eliksem
+  Elingen
+  Ellemelle
+  Ellezelles
+  Ellignies-Sainte-Anne
+  Ellikom
+  Elouges
+  Elsegem
+  Elsenborn
+  Elsene
+  Elst
+  Elverdinge
+  Elversele
+  Emblem
+  Embourg
+  Emelgem
+  Emines
+  Emptinne
+  Ename
+  Engis
+  Enines
+  Ensival
+  Epinois
+  Eppegem
+  Eprave
+  Erbaut
+  Erbisoeul
+  Ere
+  Erembodegem (Aalst)
+  Erezée
+  Ermeton-sur-Biert
+  Ernage
+  Erneuville
+  Ernonheid
+  Erondegem
+  Erpe
+  Erpe-Mere
+  Erpent
+  Erpion
+  Erps-Kwerps
+  Erquelinnes
+  Erquennes
+  Ertvelde
+  Erwetegem
+  Esen
+  Esneux
+  Esplechin
+  Esquelmes
+  Essen
+  Essene
+  Estaimbourg
+  Estaimpuis
+  Estinnes
+  Etalle
+  Ethe
+  Etikhove
+  Ettelgem
+  Etterbeek
+  Eugies (Frameries)
+  Eupen
+  Evegnée
+  Evelette
+  Everbeek
+  Everberg
+  Evere
+  Evergem
+  Evregnies
+  Eynatten
+  Ezemaal
+  Fagnolle
+  Faimes
+  Falaën
+  Falisolle
+  Fallais
+  Falmagne
+  Falmignoul
+  Familleureux
+  Familleureux A501 / A7 – E19
+  Farciennes
+  Faulx-les-Tombes
+  Fauvillers
+  Fays-les-Veneurs
+  Fayt-le-Franc
+  Fayt-lez-Manage
+  Felenne
+  Feluy
+  Feneur
+  Fernelmont
+  Ferrières
+  Feschaux
+  Fexhe-le-Haut-Clocher
+  Fexhe-Slins
+  Fexhe-Slins A13 – E313 / A601
+  Filot
+  Finnevaux
+  Fize-Fontaine
+  Fize-le-Marsal
+  Flamierge
+  Flawinne
+  Flémalle
+  Flémalle-Grande
+  Flémalle-Haute
+  Flénu
+  Fléron
+  Fleurus
+  Flône
+  Florée
+  Floreffe
+  Florennes
+  Florenville
+  Focant
+  Folx-Les-Caves
+  Fontaine-l'Evêque
+  Fontaine-Valmont
+  Fontenoille
+  Fontenoy
+  Fooz
+  Forchies-la-Marche
+  Forêt
+  Forge-Philippe
+  Forges
+  Forrières
+  Forville
+  Fosses-la-Ville
+  Fourbechies
+  Foy-Notre-Dame
+  Fraipont
+  Fraiture
+  Frameries
+  Framont
+  Franchimont
+  Francorchamps
+  Franc-Waret
+  Frasnes-lez-Anvaing
+  Frasnes-lez-Buissenal
+  Frasnes-lez-Gosselies
+  Freux
+  Froidchapelle
+  Froidfontaine
+  Froidmont
+  Fronville
+  Froyennes
+  Fumal
+  Furfooz
+  Furnaux
+  Gaasbeek
+  Gages
+  Gallaix
+  Galmaarden
+  Ganshoren
+  Gaurain-Ramecroix (Tournai)
+  Gavere
+  Gedinne
+  Geel
+  Geer
+  Geetbets
+  Gelbressée
+  Geldenaken
+  Gellik
+  Gellingen
+  Gelrode
+  Geluveld
+  Geluwe
+  Gembloux
+  Gemmenich
+  Genappe
+  Genk
+  Genly
+  Genoelselderen
+  Gent
+  Gent-Afsnee
+  Gentbrugge
+  Gent-Desteldonk
+  Gent-Drongen
+  Gent-Gentbrugge
+  Gentinnes
+  Gent-Ledeberg
+  Gent-Mariakerke
+  Gent-Mendonk
+  Gent-Oostakker
+  Gent-Sint-Amandsberg
+  Gent-Sint-Denijs-Westrem
+  Gent-Sint-Kruis-Winkel
+  Gent-Wondelgem
+  Gent-Zwijnaarde
+  Genval
+  Geraardsbergen
+  Gerin
+  Gérouville
+  Gerpinnes
+  Gestel
+  Gesves
+  Ghlin
+  Ghoy
+  Gibecq
+  Gierle
+  Gijverinkhove
+  Gijzegem
+  Gijzelbrechtegem
+  Gijzenzele
+  Gilly (Charleroi)
+  Gimnée
+  Gingelom
+  Gistel
+  Gits
+  Givry
+  Glabais
+  Glabbeek-Zuurbemde
+  Glain
+  Gleixhe
+  Glimes
+  Glons
+  Gochenée
+  Godarville
+  Godveerdegem
+  Goé
+  Goeferdinge
+  Goegnies-Chaussée
+  Goesnes
+  Goetsenhoven
+  Gomzé-Andoumont
+  Gontrode
+  Gooik
+  Gorsem
+  Gors-Opleeuw
+  Gosselies
+  Gotem
+  Gottem
+  Gottignies
+  Gougnies
+  Gourdinne
+  Goutroux
+  Gouvy
+  Gouy A15 / R3
+  Gouy-lez-Piéton
+  Gozée
+  Grace – Hollogne A15 / A604
+  Grâce-Berleur
+  Grâce-Hollogne
+  Grammene
+  Grand-Axhe
+  Grandglise
+  Grand-Hallet
+  Grand-Halleux
+  Grandhan
+  Grand-Leez
+  Grand-Manil
+  Grandmenil
+  Grandmetz
+  Grand-Rechain
+  Grand-Reng
+  Grandrieu
+  Grandville
+  Grandvoir
+  Grapfontaine
+  Graux
+  Grazen
+  Grembergen
+  Grez-Doiceau
+  Grimbergen
+  Grimminge
+  Grivegnée
+  Grobbendonk
+  Groot-Bijgaarden
+  Groot-Bijgaarden A10 – E40 / R0
+  Groot-Loon
+  Grosage
+  Grote-Brogel
+  Grotenberge
+  Grote-Spouwen
+  Gruitrode
+  Grune
+  Grupont
+  Guignies
+  Guigoven
+  Guirsch
+  Gullegem
+  Gutschoven
+  Haacht
+  Haaltert
+  Haasdonk
+  Haasrode
+  Habay
+  Habay-la-Neuve
+  Habay-la-Vieille
+  Habergy
+  Haccourt
+  Hachy
+  Haillot
+  Haine-Saint-Paul
+  Haine-Saint-Pierre
+  Hainin
+  Hakendover
+  Halanzy
+  Halen
+  Hallaar
+  Halle
+  Halle (Kempen)
+  Halle-Booienhoven
+  Halleux
+  Halma
+  Haltinne
+  Ham
+  Hamipré
+  Hamme (Bt.)
+  Hamme (O.-Vl.)
+  Hamme-Mille
+  Hamoir
+  Hamois
+  Hamont
+  Hamont-Achel
+  Hampteau
+  Ham-sur-Heure-Nalinnes
+  Ham-sur-Sambre
+  Handzame
+  Hannêche
+  Hannuit
+  Hansbeke
+  Han-sur-Lesse
+  Hantes-Wihéries
+  Hanzinelle
+  Hanzinne
+  Harchies
+  Harelbeke
+  Haren
+  Haren (Borgloon)
+  Hargimont
+  Harmignies
+  Harnoncourt
+  Harre
+  Harsin
+  Harveng
+  Harzé
+  Hasselt
+  Hastière
+  Hastière-Lavaux
+  Hastière-par-Delà
+  Hatrival
+  Hauset
+  Haut-Ittre
+  Haut-Ittre A202 / R0 / A7
+  Haut-le-Wastia
+  Hautrage
+  Hautrage A16 / A7 – E19
+  Havay
+  Havelange
+  Haversin
+  Havinnes
+  Havré
+  Hechtel
+  Hechtel-Eksel
+  Heer
+  Heers
+  Hees
+  Heestert
+  Heffen
+  Heikruis
+  Heindonk
+  Heinsch
+  Heist-aan-Zee
+  Heist-op-den-Berg
+  Hekelgem
+  Heks
+  Helchteren
+  Heldergem
+  Helecine
+  Helen-Bos
+  Helkijn
+  Helkijn
+  Hemelveerdegem
+  Hemiksem
+  Hemptinne (Fernelmont)
+  Hendrieken
+  Henri-Chapelle
+  Hensies
+  Heppen
+  Heppenbach
+  Heppignies
+  Heppignies A15 / R3
+  Herbeumont
+  Herchies
+  Herderen
+  Herent
+  Herentals
+  Herenthout
+  Herfelingen
+  Hergenrath
+  Hérinnes-lez-Pecq
+  Herk-de-Stad
+  Hermalle-sous-Argenteau
+  Hermalle-sous-Huy
+  Hermée
+  Hermeton-sur-Meuse
+  Herne
+  Héron
+  Herseaux
+  Herselt
+  Herstal
+  Herstal-Haut A3 – E40 / A601
+  Herstappe
+  Hertain
+  Herten
+  Hertsberge
+  Herve
+  Herzele
+  Heule
+  Heure-le-Romain
+  Heurne
+  Heusden (Limb.)
+  Heusden (O.-Vl.)
+  Heusden-Zolder
+  Heusy
+  Heuvelland
+  Hever
+  Heverlee
+  Heverlee A2 – E314 / A3 – E40
+  Hévillers
+  Heyd
+  Hillegem
+  Hingene
+  Hingeon
+  Hives
+  Hoboken
+  Hodeige
+  Hodister
+  Hody
+  Hoegaarden
+  Hoei
+  Hoeilaart
+  Hoeke
+  Hoelbeek
+  Hoeleden
+  Hoepertingen
+  Hoeselt
+  Hoevenen
+  Hofstade (Bt.)
+  Hofstade (O.-Vl.)
+  Hognoul
+  Hollain
+  Hollange
+  Hollebeke
+  Hollogne-aux-Pierres
+  Hollogne-sur-Geer
+  Holsbeek
+  Hombeek
+  Hombourg
+  Hompré
+  Hondelange
+  Hondelange (32-Weyler) A28 / A4 – E25
+  Honnay
+  Honnelles
+  Hooglede
+  Hoogstade
+  Hoogstraten
+  Horebeke
+  Horion-Hozémont
+  Hornu
+  Horpmaal
+  Horrues
+  Hotton
+  Houdemont
+  Houdeng – Goegnies A15 / A7 – E19
+  Houdeng-Aimeries
+  Houdeng-Goegnies (La Louvière)
+  Houdremont
+  Houffalize
+  Hour
+  Housse
+  Houtaing
+  Houtain-le-Val
+  Houtain-Saint-Siméon
+  Houtave
+  Houthalen
+  Houthalen-Helchteren
+  Houthem (Comines)
+  Houthulst
+  Houtvenne
+  Houyet
+  Hove
+  Howardries
+  Huccorgne
+  Huise
+  Huissignies
+  Huizingen
+  Huldenberg
+  Hulshout
+  Hulsonniaux
+  Hulste
+  Humain
+  Humbeek
+  Hundelgem
+  Hyon
+  Ichtegem
+  Iddergem
+  Idegem
+  Ieper
+  Impe
+  Incourt
+  Ingelmunster
+  Ingooigem
+  Irchonwelz
+  Isières
+  Isnes
+  Itegem
+  Itterbeek
+  Ittre
+  Ivoz-Ramet
+  Izegem
+  Izel
+  Izenberge
+  Izier
+  Jabbeke
+  Jabbeke A10 – E40 / A18 – E40
+  Jalhay
+  Jallet
+  Jamagne
+  Jambes (Namur)
+  Jamiolle
+  Jamoigne
+  Jandrain-Jandrenouille
+  Jauche
+  Jauchelette
+  Javingue
+  Jehay
+  Jehonville
+  Jemappes
+  Jemappes A7 / R5
+  Jemelle
+  Jemeppe-sur-Meuse
+  Jemeppe-sur-Sambre
+  Jesseren (Kolmont)
+  Jette
+  Jeuk
+  Jodoigne-Souveraine
+  Jollain-Merlin
+  Joncret
+  Julémont
+  Jumet (Charleroi)
+  Jupille-sur-Meuse
+  Juprelle
+  Jurbise
+  Juseret
+  Kaaskerke
+  Kachtem
+  Kaggevinne
+  Kain
+  Kain A16 / A8 – E429
+  Kalken
+  Kallo (Beveren-Waas)
+  Kallo (Kieldrecht)
+  Kalmthout
+  Kampenhout
+  Kanegem
+  Kanne
+  Kapellen (Antw.)
+  Kapellen (Bt.)
+  Kapelle-op-den-Bos
+  Kaprijke
+  Kasteelbrakel
+  Kaster
+  Kasterlee
+  Kaulille
+  Keerbergen
+  Keiem
+  Kelmis
+  Kemexhe
+  Kemmel
+  Kemzeke
+  Kerkhove
+  Kerkom
+  Kerksken
+  Kermt (Hasselt)
+  Kerniel
+  Kersbeek-Miskom
+  Kessel
+  Kessel-Lo (Leuven)
+  Kessenich
+  Kester
+  Kettenis
+  Keumiée
+  Kieldrecht (Beveren)
+  Kinrooi
+  Kleine-Brogel
+  Kleine-Spouwen
+  Klein-Gelmen
+  Klemskerke
+  Klerken
+  Kluisbergen
+  Kluizen
+  Knesselare
+  Knokke
+  Knokke-Heist
+  Kobbegem
+  Koekelare
+  Koekelberg
+  Koersel
+  Koksijde
+  Kolmont (Borgloon)
+  Komen
+  Komen-Waasten
+  Koningshooikt
+  Kontich
+  Kooigem
+  Koolkerke
+  Koolskamp
+  Korbeek-Dijle
+  Korbeek-Lo
+  Kortemark
+  Kortenaken
+  Kortenberg
+  Kortessem
+  Kortijs
+  Kortrijk
+  Kortrijk-Dutsel
+  Kraainem
+  Krombeke
+  Kruibeke
+  Kruishoutem
+  Kumtich
+  Kuringen
+  Kuttekoven
+  Kuurne
+  Kwaadmechelen
+  Kwaremont
+  La Bouverie
+  La Bruyère
+  La Calamine
+  La Glanerie
+  La Hestre
+  La Louvière
+  La Reid
+  La Roche-en-Ardenne
+  Laakdal
+  Laar
+  Laarne
+  Labuissière
+  Lacuisine
+  Ladeuze
+  Laforêt
+  Lahamaide
+  Laken
+  Lamain
+  Lambermont
+  Lambusart
+  Lamine
+  Lamontzée
+  Lamorteau
+  Lampernisse
+  Lanaken
+  Lanaye
+  Landegem
+  Landelies
+  Landen
+  Landenne
+  Landskouter
+  Laneffe
+  Langdorp
+  Langemark
+  Langemark-Poelkapelle
+  Lanklaar
+  Lanquesaint
+  Lantin
+  Lantremange
+  Laplaigne
+  Lapscheure
+  Lasne
+  Lasne-Chapelle-Saint-Lambert
+  Lathuy
+  Latinne
+  Latour
+  Lauwe
+  Lavacherie
+  Lavaux-Sainte-Anne
+  Lavoir
+  Le Mesnil
+  Le Roeulx
+  Le Roux
+  Lebbeke
+  Lecluse
+  Lede
+  Ledeberg (Gent)
+  Ledegem
+  Leefdaal
+  Leerbeek
+  Leernes
+  Leers-et-Fosteau
+  Leers-Nord
+  Leest
+  Leeuwergem
+  Leffinge
+  Léglise
+  Leignon
+  Leisele
+  Leke
+  Lembeek
+  Lembeke
+  Lemberge
+  Lendelede
+  Lennik
+  Lens
+  Lens-Saint-Remy
+  Lens-Saint-Servais
+  Lens-sur-Geer
+  Leonardkruispunt A4 / R0
+  Leopoldsburg
+  Les Avins
+  Les Bons Villers
+  Les Hayons
+  l'Escaillère
+  Lesdain
+  Lessen
+  Lessive
+  Lesterny
+  Lettelingen
+  Lettelingen
+  Letterhoutem
+  Leugnies
+  Leupegem
+  Leut
+  Leuven
+  Leuze-en-Hainaut
+  Leval-Chaudeville
+  Leval-Trahegnies
+  Liberchies
+  Libin
+  Libramont-Chevigny
+  Lichtaart
+  Lichtervelde
+  Liedekerke
+  Lieferinge
+  Lier
+  Lierde
+  Lierneux
+  Liers
+  Ligne
+  Ligney
+  Ligny
+  Lille
+  Lillo
+  Lillois-Witterzée
+  Limal
+  Limbourg
+  Limelette
+  Limerlé
+  Lincent
+  Linden
+  Linkebeek
+  Linkhout
+  Linsmeau
+  Lint
+  Linter
+  Lippelo
+  Lisogne
+  Lissewege
+  Lives-sur-Meuse
+  Lixhe
+  Lo
+  Lobbes
+  Lochristi
+  Lodelinsart
+  Loenhout
+  Loker
+  Lokeren
+  Loksbergen
+  Lombardsijde
+  Lombise
+  Lommel
+  Lommersweiler
+  Lompret
+  Lomprez
+  Loncin
+  Loncin A15 / A3 – E40 / A602
+  Londerzeel
+  Longchamps (Lux.)
+  Longlier
+  Longueville
+  Lontzen
+  Lonzée
+  Loonbeek
+  Loppem
+  Lo-Reninge
+  Lot
+  Lotenhulle
+  Louette-Saint-Denis
+  Louette-Saint-Pierre
+  Loupoigne
+  Louvain-La-Neuve
+  Louveigné
+  Lovendegem
+  Lovenjoel
+  Loverval
+  Loyers
+  Lubbeek
+  Luik
+  Luik A15 / A602
+  Luingne
+  Lummen
+  Lummen A13 – E313 / A2 – E314
+  Luttre
+  Maarkedal
+  Maarke-Kerkem
+  Maaseik
+  Maasmechelen
+  Mabompré
+  Machelen (Bt.)
+  Machelen (O.-Vl.)
+  Machelen A1 – E19 / R0
+  Macon
+  Macquenoise
+  Maffe
+  Maffle
+  Magnée
+  Maillen
+  Mainvault
+  Maisières
+  Maissin
+  Maizeret
+  Maldegem
+  Malderen
+  Malempré
+  Malèves-Sainte-Marie-Wastines
+  Malle
+  Malmedy
+  Malonne
+  Malvoisin
+  Manage
+  Manderfeld
+  Manhay
+  Maransart
+  Marbehan
+  Marche-en-Famenne
+  Marche-les-Dames
+  Marche-lez-Ecaussinnes
+  Marchienne-au-Pont
+  Marchin
+  Marchipont
+  Marchovelette
+  Marcinelle
+  Marcinelle A503 / R3
+  Marcourt
+  Marenne
+  Mariakerke (Gent)
+  Mariekerke (Bornem)
+  Marilles
+  Mark
+  Marke (Kortrijk)
+  Markegem
+  Marneffe
+  Marquain
+  Marquain A17 / A8 – E42
+  Martelange
+  Martenslinde
+  Martouzin-Neuville
+  Masbourg
+  Masnuy-Saint-Jean (Jurbise)
+  Masnuy-Saint-Pierre
+  Massemen
+  Massenhoven
+  Matagne-la-Grande
+  Matagne-la-Petite
+  Mater
+  Maubray
+  Maulde
+  Maurage
+  Mazée
+  Mazenzele
+  Mazy
+  Méan
+  Mechelen
+  Mechelen-aan-de-Maas
+  Mechelen-Bovelingen
+  Meeffe
+  Meensel-Kiezegem
+  Meer
+  Meerbeek
+  Meerbeke
+  Meerdonk
+  Meerhout
+  Meerle
+  Meeswijk
+  Meetkerke
+  Meeuwen
+  Meeuwen-Gruitrode
+  Meigem
+  Meilegem
+  Meise
+  Meix-Devant-Virton
+  Meix-le-Tige
+  Melden
+  Meldert (Bt.)
+  Meldert (Limb.)
+  Melen
+  Mélin
+  Melkwezer
+  Melle
+  Melles
+  Mellet
+  Mellier
+  Melsbroek
+  Melsele
+  Melsen
+  Membach
+  Membre
+  Membruggen
+  Mendonk
+  Menen
+  Merbes-le-Château
+  Merbes-Sainte-Marie
+  Merchtem
+  Merdorp
+  Mere
+  Merelbeke
+  Merendree
+  Merkem
+  Merksem (Antwerpen)
+  Merksplas
+  Merlemont
+  Mesen
+  Meslin-l'Evêque
+  Mesnil-Eglise
+  Mesnil-Saint-Blaise
+  Mespelare
+  Messancy
+  Messelbroek
+  Mesvin
+  Mettekoven
+  Mettet
+  Meulebeke
+  Meux
+  Mévergnies-lez-Lens
+  Meyerode
+  Michelbeke
+  Micheroux
+  Middelburg
+  Middelkerke
+  Miécret
+  Mielen-Boven-Aalst
+  Mignault
+  Millen
+  Milmort
+  Minderhout
+  Mirwart
+  Modave
+  Moelingen
+  Moen
+  Moerbeke
+  Moerbeke-Waas
+  Moere
+  Moerkerke
+  Moerzeke
+  Moeskroen
+  Moha
+  Mohiville
+  Moignelée
+  Moircy
+  Mol
+  Molenbeek-Wersbeek
+  Molenbeersel
+  Molenstede
+  Mollem
+  Momalle
+  Momignies
+  Monceau-Imbrechies
+  Monceau-sur-Sambre
+  Mons-lez-Liège
+  Monstreux
+  Mont (Lux.)
+  Montbliart
+  Mont-de-l'Enclus
+  Montegnée
+  Montenaken
+  Mont-Gauthier
+  Montignies-lez-Lens
+  Montignies-Saint-Christophe
+  Montignies-sur-Roc
+  Montignies-sur-Sambre
+  Montigny-le-Tilleul
+  Montleban
+  Montroeul-sur-Haine
+  Mont-Saint-Aubert
+  Mont-Sainte-Aldegonde
+  Mont-Sainte-Geneviève
+  Mont-Saint-Guibert
+  Mont-sur-Marchienne
+  Montzen
+  Moorsele
+  Moorsele A17 / A19
+  Moorslede
+  Moortsele
+  Mopertingen
+  Moregem
+  Moresnet
+  Morhet
+  Morialmé
+  Morkhoven
+  Morlanwelz
+  Mormont
+  Mornimont
+  Mortier
+  Mortroux
+  Mortsel
+  Moulbaix
+  Mourcourt
+  Moustier-sur-Sambre
+  Mouzaive
+  Moxhe
+  Mozet
+  Muizen (Limb.)
+  Muizen (Mechelen)
+  Mullem
+  Munkzwalm
+  Muno
+  Munsterbilzen
+  Munte
+  Musson
+  Mussy-la-Ville
+  My
+  N49 Gebroeders Naudtslaan
+  N49 JFKennedylaan
+  N49 Melseledijk
+  N49 Stoepestraat
+  N49 Trompstraat - Voorhout
+  N49 uitrit 10
+  N49 uitrit 9
+  N49 Verrebroekstraat - Provincialebaan
+  Naast
+  Nadrin
+  Nafraiture
+  Namêche
+  Namen
+  Nandrin
+  Naninne
+  Nassogne
+  Natoye
+  Nazareth
+  Néchin
+  Nederboelare
+  Nederbrakel
+  Nederename
+  Nederhasselt
+  Neder-Over-Heembeek
+  Nederzwalm-Hermelgem
+  Neerglabbeek
+  Neerharen
+  Neerhespen
+  Neerheylissem
+  Neerijse
+  Neerlanden
+  Neerlinter
+  Neeroeteren
+  Neerpelt
+  Neervelp
+  Neerwinden
+  Neigem
+  Nessonvaux
+  Nethen
+  Neufchâteau
+  Neufchâteau (Lg.)
+  Neufchateau A26 / A4 – E411
+  Neufmaison
+  Neufvilles
+  Neu-Moresnet
+  Neupré
+  Neuville (Philippeville)
+  Neuville-en-Condroz
+  Nevele
+  Niel
+  Niel-bij-As
+  Niel-bij-Sint-Truiden
+  Nieuwenhove
+  Nieuwenrode
+  Nieuwerkerken (Aalst)
+  Nieuwerkerken (Limb.)
+  Nieuwkapelle
+  Nieuwkerke
+  Nieuwkerken-Waas
+  Nieuwmunster
+  Nieuwpoort
+  Nieuwrode
+  Nijlen
+  Nijvel
+  Nil-Saint-Vincent-Saint-Martin
+  Nimy
+  Ninove
+  Nismes
+  Niverlée
+  Nives
+  Nobressart
+  Nodebais
+  Noduwez
+  Noirchain
+  Noirefontaine
+  Nokere
+  Nollevaux
+  Noorderwijk
+  Noordschote
+  Nossegem
+  Nothomb
+  Nouvelles
+  Noville-les-Bois
+  Nukerke
+  Obaix
+  Obigies
+  Obourg
+  Ochamps
+  Ocquier
+  Odeigne
+  Odeur
+  Oedelem
+  Oekene
+  Oelegem
+  Oeren
+  Oeselgem
+  Oetingen
+  Offagne
+  Ogy
+  Ohain
+  Ohey
+  Oignies-en-Thiérache
+  Oisquercq
+  Okegem
+  Olen
+  Oleye
+  Ollignies
+  Olloy-sur-Viroin
+  Olmen
+  Olne
+  Olsene
+  Omal
+  Ombret
+  Omezée
+  On
+  Onhaye
+  Onkerzele
+  Onnezies
+  Onoz
+  Onze-Lieve-Vrouw-Lombeek
+  Onze-Lieve-Vrouw-Waver
+  Ooigem
+  Ooike (Wortegem-Petegem)
+  Oombergen (Zottegem)
+  Oorbeek
+  Oordegem
+  Oostakker
+  Oostduinkerke
+  Oosteeklo
+  Oostende
+  Oosterzele
+  Oostham
+  Oostkamp
+  Oostkerke (Damme)
+  Oostkerke (Diksmuide)
+  Oostmalle
+  Oostnieuwkerke
+  Oostrozebeke
+  Oostvleteren
+  Oostwinkel
+  Opbrakel
+  Opdorp
+  Opglabbeek
+  Opgrimbie
+  Ophain-Bois-Seigneur-Isaac
+  Ophasselt
+  Opheers
+  Opheylissem
+  Ophoven
+  Oplinter
+  Opoeteren
+  Opont
+  Opprebais
+  Oppuurs
+  Opvelp
+  Opwijk
+  Orbais
+  Orchimont
+  Orcq
+  Oret
+  Oreye
+  Orgeo
+  Ormeignies
+  Orp-Jauche
+  Orp-Le-Grand
+  Orroir
+  Orsmaal-Gussenhoven
+  Ortho
+  Ostiches
+  Otegem
+  Oteppe
+  Othée
+  Otrange
+  Ottenburg
+  Ottergem
+  Ottignies
+  Ottignies-Louvain-La-Neuve
+  Oudegem
+  Oudekapelle
+  Oudenaarde
+  Oudenaken
+  Oudenburg
+  Oudergem
+  Oud-Heverlee
+  Oud-Turnhout
+  Ouffet
+  Ougrée
+  Oupeye
+  Outer
+  Outgaarden
+  Outrijve
+  Ouwegem
+  Overboelare
+  Overhespen
+  Overijse
+  Overmere
+  Overpelt
+  Overwinden
+  Paal
+  Paifve
+  Pailhe
+  Paliseul
+  Pamel
+  Papignies
+  Parike
+  Passendale
+  Patignies
+  Paturages
+  Paulatem
+  Pecq
+  Peer
+  Pellaines
+  Pellenberg
+  Pepingen
+  Pepinster
+  Perk
+  Péronnes-lez-Antoing
+  Péronnes-lez-Binche
+  Péruwelz
+  Pervijze
+  Perwez
+  Perwez-Haillot
+  Pessoux
+  Petegem-aan-de-Leie
+  Petegem-aan-de-Schelde
+  Petit-Hallet
+  Petit-Rechain
+  Petit-Roeulx-lez-Nivelles
+  Petit-Thier
+  Peutie
+  Philippeville
+  Piéton
+  Piétrain
+  Pietrebais
+  Pipaix
+  Pironchamps
+  Pittem
+  Plainevaux
+  Plancenoit
+  Ploegsteert
+  Plombières
+  Poederlee
+  Poeke
+  Poelkapelle
+  Poesele
+  Pollare
+  Polleur
+  Pollinkhove
+  Pommeroeul
+  Pondrôme
+  Pont-à-Celles
+  Pont-de-Loup
+  Pontillas
+  Poperinge
+  Poppel
+  Poucet
+  Poulseur
+  Poupehan
+  Pousset
+  Presles
+  Profondeville
+  Proven
+  Pulderbos
+  Pulle
+  Pussemange
+  Putte
+  Puurs
+  Quaregnon
+  Quartes
+  Quenast
+  Queue-du-Bois
+  Quevaucamps
+  Quévy
+  Quévy-le-Grand
+  Quévy-le-Petit
+  Quiévrain
+  R0 Anderlecht
+  R0 Anderlecht-Noord
+  R0 Anderlecht-Zuid
+  R0 Argenteuil
+  R0 Astridlaan
+  R0 Beersel
+  R0 Diegem Woluwelaan
+  R0 Dilbeek
+  R0 Eigenbrakel
+  R0 Expo Romeinse Steenweg
+  R0 Grimbergen
+  R0 Groenendaal
+  R0 Groot Bijgaarden Dansaertlaan
+  R0 Halle
+  R0 Huizingen
+  R0 Machelen Woluwelaan
+  R0 Mont-St.-Jean
+  R0 Neerpede
+  R0 Nijvel/Lillois
+  R0 Ophain
+  R0 Pede
+  R0 Ruisbroek
+  R0 Tervuren 4 Armen
+  R0 U.Z. Jette
+  R0 uitrit 1
+  R0 uitrit 10
+  R0 uitrit 11
+  R0 uitrit 12
+  R0 uitrit 13
+  R0 uitrit 14
+  R0 uitrit 15
+  R0 uitrit 16
+  R0 uitrit 17
+  R0 uitrit 18
+  R0 uitrit 19
+  R0 uitrit 2
+  R0 uitrit 20
+  R0 uitrit 21
+  R0 uitrit 22
+  R0 uitrit 23
+  R0 uitrit 24
+  R0 uitrit 25
+  R0 uitrit 26
+  R0 uitrit 27
+  R0 uitrit 28
+  R0 uitrit 3
+  R0 uitrit 3
+  R0 uitrit 4
+  R0 uitrit 5
+  R0 uitrit 6
+  R0 uitrit 7
+  R0 uitrit 8
+  R0 uitrit 9
+  R0 Vilvoorde Koningslo
+  R0 Waterloo Centre
+  R0 Wauters Brakel
+  R0 Welriekende Dreef
+  R0 Wemmel
+  R0 Wezembeek-Oppem
+  R0 Woluwedal
+  R0 Zaventem Henneaulaan
+  R0 Zellik
+  R1 Berchem
+  R1 Borgerhout
+  R1 Deurne
+  R1 Kennedytunnel
+  R1 Legrellelaan
+  R1 Linkeroever
+  R1 Merksem
+  R1 uitrit 1
+  R1 uitrit 2
+  R1 uitrit 3
+  R1 uitrit 4
+  R1 uitrit 5
+  R1 uitrit 6
+  R2 Beverentunnel
+  R2 Kanaaldok B1 B2
+  R2 Liefkenshoektunnel
+  R2 Lillo
+  R2 Tijsmanstunnel
+  R2 uitrit 10
+  R2 uitrit 11
+  R2 uitrit 12
+  R2 uitrit 13
+  R2 Waaslandhaven Noord
+  R2 Waaslandhaven Zuid
+  R3 Blanche Borne
+  R3 Chatelet
+  R3 Chatelineau
+  R3 Couillet
+  R3 Fontaine-L'Eveque
+  R3 Forchies-La-Marche
+  R3 Gilly
+  R3 Marcinelle Oost
+  R3 Marcinelle/Hublinbu
+  R3 Montigny-Le-Tilleul
+  R3 Mont-Sur-Marchienne
+  R3 Soleilmont
+  R3 Trazegnies
+  R3 uitrit 1
+  R3 uitrit 10
+  R3 uitrit 11
+  R3 uitrit 12
+  R3 uitrit 13
+  R3 uitrit 2
+  R3 uitrit 3
+  R3 uitrit 4
+  R3 uitrit 5
+  R3 uitrit 6
+  R3 uitrit 7
+  R3 uitrit 8
+  R3 uitrit 9
+  Rachecourt
+  Racour
+  Raeren
+  Ragnies
+  Ramegnies
+  Ramegnies-Chin
+  Ramelot
+  Ramillies
+  Ramsdonk
+  Ramsel
+  Ramskapelle (Knokke-Heist)
+  Ramskapelle (Nieuwpoort)
+  Rance
+  Ransart
+  Ransberg
+  Ranst
+  Ranst A13 – E313 / A21 – E34
+  Ravels
+  Rebaix
+  Rebecq
+  Rebecq-Rognon
+  Recht
+  Recogne
+  Redu
+  Reet
+  Rekem
+  Rekkem
+  Relegem
+  Remagne
+  Remersdaal
+  Remicourt
+  Rendeux
+  Reninge
+  Reningelst
+  Renlies
+  Reppel
+  Ressaix
+  Ressegem
+  Resteigne
+  Retie
+  Retinne
+  Reuland
+  Rèves
+  Rhisnes
+  Richelle
+  Riemst
+  Rienne
+  Rièzes
+  Rijkel
+  Rijkevorsel
+  Rijkhoven
+  Rijmenam
+  Rillaar
+  Rixensart
+  Robechies
+  Robelmont
+  Roborst
+  Rochefort
+  Rochehaut
+  Rocherath
+  Roclenge-sur-Geer
+  Rocourt
+  Roesbrugge-Haringe
+  Roeselare
+  Rognée
+  Roisin
+  Roksem
+  Rollegem
+  Rollegem-Kapelle
+  Roly
+  Romedenne
+  Romerée
+  Romershoven
+  Romsée
+  Rongy
+  Ronse
+  Ronsele
+  Roosbeek
+  Roosdaal
+  Roselies
+  Rosieres
+  Rosmeer
+  Rosoux-Crenwick
+  Rotem
+  Rotheux-Rimière
+  Rotselaar
+  Roucourt
+  Rouvreux
+  Rouvroy
+  Roux
+  Roux-miroir
+  Roy
+  Rozebeke
+  Ruddervoorde
+  Ruette
+  Ruien
+  Ruisbroek (Bt.)
+  Ruiselede
+  Rukkelingen-Loon
+  Rulles
+  Rumbeke
+  Rumes
+  Rumillies
+  Rummen
+  Rumsdorp
+  Rumst
+  Runkelen
+  Rupelmonde
+  Russeignies
+  s Gravenbrakel
+  s Gravenvoeren
+  Saint-Amand
+  Saint-André
+  Saint-Denis (Ht.)
+  Saint-Denis-Bovesse
+  Sainte-Cécile
+  Sainte-Marie-Chevigny
+  Sainte-Marie-sur-Semois
+  Sainte-Ode
+  Saintes
+  Saint-Georges-sur-Meuse
+  Saint-Gérard
+  Saint-Géry
+  Saint-Ghislain
+  Saint-Hubert
+  Saint-Jean-Geest
+  Saint-Léger (Ht.)
+  Saint-Léger (Lux.)
+  Saint-Marc
+  Saint-Mard
+  Saint-Martin
+  Saint-Maur
+  Saint-Médard
+  Saint-Pierre
+  Saint-Remy (Ht.)
+  Saint-Remy (Lg.)
+  Saint-Remy-Geest
+  Saint-Sauveur
+  Saint-Servais
+  Saint-Séverin
+  Saint-Symphorien
+  Saint-Vaast
+  Saive
+  Salles
+  Samart
+  Sambreville
+  Samrée
+  Sankt-Vith
+  Sars-la-Bruyère
+  Sars-la-Buissière
+  Sart-Bernard
+  Sart-Custinne
+  Sart-en-Fagne
+  Sart-Eustache
+  Sart-lez-Spa
+  Sart-Saint-Laurent
+  Sautin
+  Sautour
+  Sauvenière
+  Schaarbeek
+  Schalkhoven
+  Schaltin
+  Schelderode
+  Scheldewindeke
+  Schelle
+  Schellebelle
+  Schendelbeke
+  Schepdaal
+  Scherpenheuvel
+  Scherpenheuvel-Zichem
+  Schilde
+  Schoenberg
+  Schönberg
+  Schoonaarde
+  Schorisse
+  Schoten
+  Schriek
+  Schuiferskapelle
+  Schulen
+  Sclayn
+  Scy
+  Seilles
+  Sélange
+  Seloignes
+  Semmerzake
+  Seneffe
+  Sensenruth
+  Seny
+  Senzeille
+  Septon
+  Seraing
+  Seraing-le-Château
+  Serinchamps
+  Serskamp
+  Serville
+  Sibret
+  Signeulx
+  Sijsele
+  Silenrieux
+  Silly
+  Sinaai-Waas
+  Sint-Agatha-Berchem
+  Sint-Agatha-Berchem (custom)
+  Sint-Agatha-Rode
+  Sint-Amands
+  Sint-Amandsberg (Gent)
+  Sint-Andries
+  Sint-Antelinks
+  Sint-Baafs-Vijve
+  Sint-Blasius-Boekel
+  Sint-Denijs
+  Sint-Denijs-Boekel
+  Sint-Denijs-Westrem
+  Sint-Eloois-Vijve
+  Sint-Eloois-Winkel
+  Sint-Genesius-Rode
+  Sint-Gilles
+  Sint-Gillis-bij-Dendermonde
+  Sint-Gillis-Waas
+  Sint-Goriks-Oudenhove
+  Sint-Huibrechts-Hern
+  Sint-Huibrechts-Lille
+  Sint-Jacobs-Kapelle
+  Sint-Jan
+  Sint-Jan-in-Eremo
+  Sint-Jans-Molenbeek
+  Sint-Job-in-'t-Goor
+  Sint-Joost-Ten-Node
+  Sint-Joris (Beernem)
+  Sint-Joris (Nieuwpoort)
+  Sint-Joris-Weert
+  Sint-Katelijne-Waver
+  Sint-Katherina-Lombeek
+  Sint-Kornelis-Horebeke
+  Sint-Kruis (Brugge)
+  Sint-Kruis-Winkel
+  Sint-Kwintens-Lennik
+  Sint-Lambrechts-Herk
+  Sint-Lambrechts-Woluwe
+  Sint-Laureins
+  Sint-Laureins-Berchem
+  Sint-Lenaarts
+  Sint-Lievens-Esse
+  Sint-Lievens-Houtem
+  Sint-Margriete
+  Sint-Margriete-Houtem (Tienen)
+  Sint-Maria-Horebeke
+  Sint-Maria-Latem
+  Sint-Maria-Lierde
+  Sint-Maria-Oudenhove (Zottegem)
+  Sint-Martens-Bodegem
+  Sint-Martens-Latem
+  Sint-Martens-Leerne
+  Sint-Martens-Lennik
+  Sint-Martens-Lierde
+  Sint-Martens-Voeren
+  Sint-Martens-Voeren
+  Sint-Michiels
+  Sint-Niklaas
+  Sint-Pauwels
+  Sint-Pieters-Kapelle (Bt.)
+  Sint-Pieters-Leeuw
+  Sint-Pieters-Rode
+  Sint-Pieters-Voeren
+  Sint-Pieters-Woluwe
+  Sint-Rijkers
+  Sint-Stevens-Woluwe
+  Sint-Truiden
+  Sint-Ulriks-Kapelle
+  Sippenaeken
+  Sirault
+  Sivry
+  Sivry-Rance
+  Sleidinge
+  Slijpe
+  Slins
+  Smeerebbe-Vloerzegem
+  Smetlede
+  Smuid
+  Snaaskerke
+  Snellegem
+  Soheit-Tinlot
+  Sohier
+  Soiron
+  Solre-Saint-Géry
+  Solre-sur-Sambre
+  Sombreffe
+  Somme-Leuze
+  Sommethonne
+  Sommière
+  Somzée
+  Sorée
+  Sorinne-la-Longue
+  Sorinnes
+  Sosoye
+  Sougné-Remouchamps
+  Soulme
+  Soumagne
+  Soumoy
+  Souvret
+  Sovet
+  Soy
+  Spa
+  Spalbeek
+  Spiennes
+  Spiere
+  Spiere
+  Spiere-Helkijn
+  Spiere-Helkijn
+  Spouwen
+  Sprimont
+  Spy
+  St. Anna Linkeroever N49 – A11 / R1
+  St. Stevens Woluwe A3 – E40 / R0
+  Stabroek
+  Staden
+  Stalhille
+  Stambruges
+  Stave
+  Stavele
+  Stavelot
+  St-Denis A7 / R5
+  Steendorp
+  Steenhuffel
+  Steenhuize-Wijnhuize
+  Steenokkerzeel
+  Stekene
+  Stembert
+  Stene
+  Sterrebeek
+  Stevoort
+  Stokkem
+  Stokrooie
+  Stoumont
+  Straimont
+  Strée (Ht.)
+  Strépy-Bracquegnies
+  Strijpen
+  Strijtem
+  Strombeek Bever A12 / R0
+  Strombeek-Bever
+  Stuivekenskerke
+  Suarlée
+  Sugny
+  Surice
+  Suxy
+  Tailles
+  Taintignies
+  Tamines
+  Tarcienne
+  Tavier
+  Tavigny
+  Tellin
+  Templeuve
+  Temploux
+  Temse
+  Tenneville
+  Teralfene
+  Terhagen
+  Terhulpen
+  Termes
+  Ternat
+  Tertre
+  Tervuren
+  Terwagne
+  Tessenderlo
+  Testelt
+  Teuven
+  Theux
+  Thiaumont
+  Thieu
+  Thieulain
+  Thieusies
+  Thiméon
+  Thimeon A15 / A54
+  Thimougies
+  Thines
+  Thirimont
+  Thisnes
+  Thommen
+  Thon
+  Thorembais-les-Béguines
+  Thorembais-Saint-Trond
+  Thuillies
+  Thuin
+  Thulin
+  Thumaide
+  Thy-le-Bauduin
+  Thy-le-Château
+  Thynes
+  Thys
+  Tiegem
+  Tielen
+  Tielrode
+  Tielt
+  Tielt-Winge
+  Tienen
+  Tignée
+  Tihange
+  Tildonk
+  Tilff
+  Tillet
+  Tillier
+  Tinlot
+  Tintange
+  Tintigny
+  Tisselt
+  Toernich
+  Tohogne
+  Tollembeek
+  Tongeren
+  Tongre-Notre-Dame
+  Tongre-Saint-Martin
+  Tongrinne
+  Tontelange
+  Torgny
+  Torhout
+  Tourinne (Lg.)
+  Tourinnes-La-Grosse
+  Tourinnes-Saint-Lambert
+  Tournay
+  Tourpes
+  Transinne
+  Trazegnies
+  Treignes
+  Trembleur
+  Tremelo
+  Trivières
+  Trognée
+  Trois-Ponts
+  Trooz
+  Tubeke
+  Turnhout
+  Ucimont
+  Uikhoven
+  Uitbergen
+  Uitkerke
+  Ukkel
+  Ulbeek
+  Ursel
+  Vaalbeek
+  Val-Meer
+  Vance
+  Varendonk
+  Varsenare
+  Vaucelles
+  Vaulx (Tournai)
+  Vaulx-lez-Chimay
+  Vaux-Chavanne
+  Vaux-et-Borset
+  Vaux-lez-Rosières
+  Vaux-sous-Chèvremont
+  Vaux-sur-Sure
+  Vechmaal
+  Vedrin
+  Veerle
+  Velaine-sur-Sambre
+  Veldegem
+  Veldwezelt
+  Velm
+  Velroux
+  Veltem-Beisem
+  Velzeke-Ruddershove
+  Vencimont
+  Vergnies
+  Verlaine
+  Verrebroek
+  Vertrijk
+  Verviers
+  Vesqueville
+  Veulen
+  Veurne
+  Vezin
+  Vezon
+  Viane
+  Vichte
+  Vielsalm
+  Viersel
+  Vierves-sur-Viroin
+  Viesville
+  Vieux-Genappe
+  Vieuxville
+  Vieux-Waleffe
+  Villance
+  Ville-en-Hesbaye
+  Ville-Pommeroeul
+  Villerot
+  Villers-aux-Tours
+  Villers-Deux-Eglises
+  Villers-Devant-Orval
+  Villers-en-Fagne
+  Villers-la-Loue
+  Villers-la-Tour
+  Villers-la-Ville
+  Villers-le-Bouillet
+  Villers-le-Gambon
+  Villers-le-Peuplier
+  Villers-le-Temple
+  Villers-l'Evêque
+  Villers-lez-Heest
+  Villers-Notre-Dame
+  Villers-Perwin
+  Villers-Poterie
+  Villers-Saint-Amand
+  Villers-Sainte-Gertrude
+  Villers-Saint-Ghislain
+  Villers-Saint-Siméon
+  Villers-sur-Lesse
+  Villers-sur-Semois
+  Ville-sur-Haine (Le Roeulx)
+  Vilvoorde
+  Vinalmont
+  Vinderhoute
+  Vinkt
+  Virelles
+  Virginal-Samme
+  Viroinval
+  Virton
+  Vissenaken
+  Vitrival
+  Vivegnis
+  Vivy
+  Vladslo
+  Vlamertinge
+  Vlekkem
+  Vleteren
+  Vlezenbeek
+  Vliermaal
+  Vliermaalroot
+  Vlierzele
+  Vlijtingen
+  Vlimmeren
+  Vlissegem
+  Vloesberg
+  Vodecée
+  Vodelée
+  Voeren
+  Voeren
+  Volkegem
+  Vollezele
+  Vonêche
+  Voorde
+  Voormezele
+  Voort
+  Voroux-lez-Liers
+  Vorselaar
+  Vorsen
+  Vorst
+  Vorst (Kempen)
+  Vorst A7 / R0
+  Vosselaar
+  Vosselare
+  Vossem
+  Vottem
+  Vottem A13 – E313 / A3 – E40
+  Vrasene
+  Vremde
+  Vresse-sur-Semois
+  Vroenhoven
+  Vucht
+  Vurste
+  Vyle-et-Tharoul
+  Waanrode
+  Waarbeke
+  Waardamme
+  Waarloos
+  Waarmaarde
+  Waarschoot
+  Waasmont
+  Waasmunster
+  Wachtebeke
+  Wadelincourt
+  Wagnelée
+  Waha
+  Waimes
+  Wakken
+  Walcourt
+  Walem
+  Walhain
+  Walhain-Saint-Paul
+  Walhorn
+  Walsbets
+  Walshoutem
+  Waltwilder
+  Wambeek
+  Wancennes
+  Wandre
+  Wanfercée-Baulet
+  Wange
+  Wangenies
+  Wanlin
+  Wannebecq
+  Wannegem-Lede
+  Wansin
+  Wanze
+  Wanzele
+  Warchin
+  Warcoing
+  Waregem
+  Waret-l'Evêque
+  Warisoulx
+  Warnant
+  Warnant-Dreye
+  Warneton
+  Warquignies
+  Warsage
+  Warzée
+  Wasmes
+  Wasmes-Audemez-Briffoeil
+  Wasmuel
+  Wasseiges
+  Waterland-Oudeman
+  Waterloo
+  Watermaal-Bosvoorde
+  Watervliet
+  Watou
+  Waudrez
+  Waulsort
+  Waver
+  Wavreille
+  Wayaux
+  Ways
+  Wechelderzande
+  Weelde
+  Weerde
+  Weert
+  Wegnez
+  Weillen
+  Welden
+  Welkenraedt
+  Welle
+  Wellen
+  Wellin
+  Wemmel
+  Wenduine
+  Wépion
+  Werbomont
+  Werchter
+  Wéris
+  Werken
+  Werm
+  Wervik
+  Wespelaar
+  Westende
+  Westerlo
+  Westkapelle
+  Westkerke
+  Westmalle
+  Westmeerbeek
+  Westouter
+  Westrem
+  Westrozebeke
+  Westvleteren
+  Wetteren
+  Wevelgem
+  Wezemaal
+  Wezembeek-Oppem
+  Wezeren
+  Wezet
+  Wez-Velvain
+  Wibrin
+  Wichelen
+  Wiekevorst
+  Wielsbeke
+  Wierde
+  Wiers
+  Wiesme
+  Wieze
+  Wihéries
+  Wihogne
+  Wijchmaal
+  Wijgmaal (Brabant)
+  Wijnegem
+  Wijshagen
+  Wijtschate
+  Wilderen
+  Willaupuis
+  Willebringen
+  Willebroek
+  Willemeau
+  Willerzie
+  Wilrijk
+  Wilrijk Valaar A112 / A12
+  Wilsele
+  Wilskerke
+  Wimmertingen
+  Winenne
+  Wingene
+  Winksele
+  Wintershoven
+  Witry
+  Wodecq
+  Woesten
+  Wolkrange
+  Wolvertem
+  Wommelgem
+  Wommersom
+  Wonck
+  Wondelgem
+  Wontergem
+  Wortegem
+  Wortegem-Petegem
+  Wortel
+  Woubrechtegem
+  Woumen
+  Woutersbrakel
+  Wulpen
+  Wulvergem
+  Wuustwezel
+  Xhendelesse
+  Xhendremael
+  Xhoris
+  Yernée-Fraineux
+  Yvoir
+  Zaffelare
+  Zandbergen
+  Zande
+  Zandhoven
+  Zandvliet
+  Zandvoorde (Oostende)
+  Zandvoorde (Zonnebeke)
+  Zarlardinge
+  Zarren
+  Zaventem
+  Zaventem A201 / R0
+  Zedelgem
+  Zeebrugge (Brugge)
+  Zegelsem
+  Zele
+  Zelem
+  Zellik
+  Zelzate
+  Zemst
+  Zerkegem
+  Zétrud-Lumay
+  Zevekote
+  Zeveneken
+  Zeveren
+  Zevergem
+  Zichem
+  Zichen-Zussen-Bolder
+  Zillebeke
+  Zingem
+  Zinnik
+  Zoersel
+  Zolder
+  Zomergem
+  Zonhoven
+  Zonnebeke
+  Zonnegem
+  Zottegem
+  Zoutleeuw
+  Zuidschote
+  Zuienkerke
+  Zulte
+  Zulzeke
+  Zutendaal
+  Zwalm
+  Zwevegem
+  Zwevezele
+  Zwijnaarde
+  Zwijnaarde A10 – E40 / A14 – E17
+  Zwijndrecht
